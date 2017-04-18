@@ -132,4 +132,12 @@ Very clear on Copyright and licensing
 
 ADA color contrast requirements.
 
+how to see compatibility
+
+MDN
+
+promises
+
+
+
 ARIA atributes [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA](https://www.google.com/url?q=https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA&sa=D&ust=1489721085962000&usg=AFQjCNFgkZCObe25gO4CSDTYjxID9wOR1g)
