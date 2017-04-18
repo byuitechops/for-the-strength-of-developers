@@ -5,7 +5,7 @@ This is the place for all the training we have.
 ## New Hire
 Do this if you are new here
 
-[New Hire Training](link)
+[New Hire Training](./newHireToDo.md)
 
 ## Set Up PC
 
