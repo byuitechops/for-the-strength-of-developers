@@ -89,36 +89,40 @@ If you need to install it, you can find the installer at the following link. [ht
 
 *   Two more settings you might want in your preference file
 
-*   // true to insert the currently selected code hint on tab
+    *   insert the currently selected code hint on tab
 
-*   "insertHintOnTab": true,
+        ```
+        "insertHintOnTab": true,
+        ```
 
-*   // true to enable scrolling beyond the end of the document
+    *   enable scrolling beyond the end of the document
 
-*   "scrollPastEnd": true,
+        ```   
+        "scrollPastEnd": true,
+        ```
 
-*   Show file extensions in windows
+### Show file extensions in windows
 *   Windows 10 (Link is no longer available!)
 
-*   [https://www.youtube.com/watch?v=leOBJfEDs_4](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DleOBJfEDs_4&sa=D&ust=1489721085953000&usg=AFQjCNGL-5oLR6t8F_X-9AjlnTe7nlUsXw)
+    *   [https://www.youtube.com/watch?v=leOBJfEDs_4](https://www.youtube.com/watch?v=leOBJfEDs_4)
 
 *   Windows 7
 
-*   [https://www.youtube.com/watch?v=wxIIskKmUQA](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DwxIIskKmUQA&sa=D&ust=1489721085954000&usg=AFQjCNEq4RSiYGDSzsOn0hdVkY7Mwnqrsw)
+    *   [https://www.youtube.com/watch?v=wxIIskKmUQA](https://www.youtube.com/watch?v=wxIIskKmUQA)
 
 ## Learn Stuff
 
-*   Learn git basics here [https://try.github.io](https://www.google.com/url?q=https://try.github.io&sa=D&ust=1489721085956000&usg=AFQjCNFTelmCyeNXtSwTjToootCsaNgnTA)
+*   Learn git basics here [https://try.github.io](https://try.github.io)
 *   Complete the learnyounode class
 
-*   Get started by running the following in cmd
-*   npm install -g learnyounode
-*   And then
-*   learnyounode
+    Get started by running the following in cmd
+    ```  
+    npm install -g learnyounode
+    learnyounode
+    ```
 
-*   Then Watch
-
-*   https://docs.npmjs.com/getting-started/what-is-npm
+*   NPM Videos
+    *   https://docs.npmjs.com/getting-started/what-is-npm
 
 ## Things we need to do for New Hires
 
@@ -140,4 +144,4 @@ promises
 
 
 
-ARIA atributes [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA](https://www.google.com/url?q=https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA&sa=D&ust=1489721085962000&usg=AFQjCNFgkZCObe25gO4CSDTYjxID9wOR1g)
+ARIA atributes [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
