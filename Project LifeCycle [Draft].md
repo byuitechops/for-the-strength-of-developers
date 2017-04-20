@@ -31,4 +31,5 @@
       * Developer Update Git and Scrum Master Update Trello to Review.
       * Present the Project to the Stakeholders. Send back to step 2/4 for additional changes/Unmet needs.
       * OR Project is finished and sent to the field.
-# 8.) Monitor Project through Google Analytics and follow up with Stakeholder after decided Timeperiod.
+      * Monitor Project through Google Analytics and follow up with Stakeholder after decided Timeperiod.
+      * Scrum Master and Developer Meeting: Discuss what could have been better. 
