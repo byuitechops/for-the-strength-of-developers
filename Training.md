@@ -11,8 +11,7 @@ Do this if you are new here
 
 Instuctions on getting the main programs running on your computer
 
-[Set Up PC (Automated)](https://github.com/byuitechops/New-Compuer-Initializor) || [Set UP PC (Manual)](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#set-up-your-computer)
-[Test Link](../Example-Project/README.md)
+[Set Up PC (Automated)](https://github.com/byuitechops/New-Compuer-Initializor) | [Set UP PC (Manual)](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#set-up-your-computer) | [Test Link](../Example-Project/blob/master/README.md)
 
 ## Core Learning
 
