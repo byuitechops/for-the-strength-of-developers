@@ -1,0 +1,42 @@
+// A lot of details on the contents of a package.json can be found here http://browsenpm.org/package.json Please note, you may have to load the page multiple times before it actually works.
+
+{
+  "name": "project-name", //simple descriptive name of your project.
+  "version": "01.01.01", //Version Standars still being decided.
+  "description": "Enter a description of what your project does",
+  "author": "Your Name <you.name@example.org>", // Email is optional
+  "contributors": [{ //each contributor will be a seperate object in this array. 
+  "name": "John Smith",
+  "email": "John.Smith@example.com"
+  //(Optional) URL: JSmith.google.com
+}],
+  "bin": {
+  "module-name": "./bin/module-name"
+},
+  "scripts": { // I think this section is uneeded, and primarily used when creating a NPM Module.
+    "test": "vows --spec --isolate",
+    "start": "node index.js",
+    "predeploy": "echo im about to deploy",
+    "postdeploy": "echo ive deployed",
+    "prepublish": "coffee --bare --compile --output lib/foo src/foo/*.coffee"
+  },
+  "main": "lib/foo.js", // If your package is a module, this is where you set the name.
+  "repository": { //specifiy the Type and URL of a repository used to store the project. (Ours should always be GIT)
+  "type": "git",
+  "url": "https://github.com/nodejitsu/browsenpm.org"
+},
+  "bugs": { // This is an URL and/or an email to where bugs should be reported.
+  "url": "https://github.com/nodejitsu/browsenpm.org/issues"
+},
+  "dependencies": { // a List of packages your project will depend on. They may need to be installed before it is useable.
+    "primus": "*",
+    "async": "~0.8.0",
+    "express": "4.2.x",
+    "winston": "git://github.com/flatiron/winston#master",
+    "bigpipe": "bigpipe/pagelet",
+    "plates": "https://github.com/flatiron/plates/tarball/master"
+  },
+  "subdomain": "foobar",
+  "license": "License Here" // More about Licenses can be found at https://opensource.org/licenses
+}
+  
