@@ -4,7 +4,7 @@
     * Project size will be assessed. Multi-sprint? single sprint?
       * Multi-step projects will be broken down into sub-projects for each sprint, each sub-project being further broken down into tasks for the week.
       * Projects overall time projection, weight, and difficulty will be documented (probably broken into sprints, and the totalled).
-      *Upload the Project Template to Git.
+      * Upload the Project Template to Git.
 # 3.) Team Assignment: Project will be given to a team based on weight, difficulty, and time projection.
       * Scrum Master: relay project details to the developer who will receive the project, discussing: 
             * Design Ideas
