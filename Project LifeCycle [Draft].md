@@ -23,8 +23,8 @@
       * Work down checklist for the day.
       * Lint project according to standards, check documentation daily, update as needed.
             *DayEnd Meeting:  Report work to Scrum Master work progress and time used to track in Toggle.
-      * **Developer**:Update Git, Check off progress in Issues and Milestones.
-      * **Scrum Master**: Update Trello as needed (Functionality updates, etc).
+      * Developer:Update Git, Check off progress in Issues and Milestones.
+      * Scrum Master: Update Trello as needed (Functionality updates, etc).
 # 6.) Revert to step 5.), Repeat until done, or Move on to Project Testing.
 # 7.) Finishing Steps
       * Set up Google Analytics for the Project. Double check documentation. 
