@@ -9,10 +9,10 @@ Do this if you are new here
 
 ## Set Up PC
 
-Instuctions on getting the main programs running on your compuyter
+Instuctions on getting the main programs running on your computer
 
-[Set Up PC](link)
-
+[Set Up PC (Automated)](https://github.com/byuitechops/New-Compuer-Initializor) || [Set UP PC (Manual)](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#set-up-your-computer)
+[Test Link](../Example-Project/README.md)
 
 ## Core Learning
 
