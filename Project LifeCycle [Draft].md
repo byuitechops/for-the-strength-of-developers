@@ -12,7 +12,7 @@
             * Compare priority of project to current projects.
       * Scrum Master: Uploads Project information to Trello, Creating Macro Checklist (Functionality goals being the parameters).
       * Team Developer: Fills in the project Template on Git. Creating Micro Checklist (Sprint breakdowns, design plan, creates picture).
-# 4.) Initial Developer Independant Work: 
+# 4.) Initial Developer Independent Work: 
       * Survey picture/project design, assess for improvement
       * Stub out project/sprint section. Taking care to match standards for Google Analytics Use.
       * While Stubbing, create JSDocs for classes/functions
