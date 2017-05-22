@@ -1,0 +1,13 @@
+{
+  "name": "for-the-strength-of-developers",
+  "version": "1.0.0",
+  "description": "The GS code that runs the English Assessment Spreadsheet",
+  "main": "",
+  "scripts": {
+    "test": "NA"
+  },
+  "author": "Joshua McKinney",
+  "contributors": "Scott Nicholes",
+  "license": "",
+  "devDependencies": ""
+}
