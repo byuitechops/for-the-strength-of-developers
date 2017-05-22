@@ -1,7 +1,7 @@
 {
   "name": "for-the-strength-of-developers",
   "version": "1.0.0",
-  "description": "The GS code that runs the English Assessment Spreadsheet",
+  "description": "This repo contains all of our current development standards",
   "main": "",
   "scripts": {
     "test": "NA"
