@@ -6,8 +6,10 @@
   "scripts": {
     "test": "NA"
   },
-  "author": "Joshua McKinney",
-  "contributors": "Scott Nicholes",
   "license": "",
-  "devDependencies": ""
+  "devDependencies": "",
+  "author": "Joshua McKinney",
+  "contributors": [{
+    "name": "Scott Nicholes"
+  }]
 }
