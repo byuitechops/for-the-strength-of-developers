@@ -1,6 +1,6 @@
 # Project Life Cycle
 
-we use scrum, watch this video 
+we use scrum, watch this video (Intro to Scrum in Under 10 Minutes)[https://www.youtube.com/watch?v=XU0llRltyFM] 
 
 we have scrum masters that you will report to daily
 
@@ -10,11 +10,11 @@ we have weeklong sprints that correlate with weekly meetings with the stakeholde
 
 The Scrum Master or Dev will have Mid Sprint meetings with Josh to make sure we are on track
 
-We use github issues and milestones for sprint tracking
+We use github issues, milestones and Projectsfor sprint tracking
 
-there will be a design approval meeting before development starts
+There will be a design approval meeting before development starts
 
-
+**TODO:**
 make a infographic for the design proccess
 
 ## Trello Card Format
