@@ -16,3 +16,33 @@ there will be a design approval meeting before development starts
 
 
 make a infographic for the design proccess
+
+## Trello Card Format
+
+### Lists
+Used to indicate the progress of the project
+
+### Tags
+Used to indicate teams and priority
+
+### Card's Markdown Template
+The title of the card should match the name of the project and the github repo
+
+Use this template to make project cards
+```markdown
+## Stakeholders:
+- Indivduals that we can contact
+- First Last: email@byui.edu, 208-496-1534
+
+## Users
+- Online Students
+- Online Inprovement team 
+- Indivduals that we can contact
+- First Last: email@byui.edu, 208-496-1534
+
+## Description:
+The original request or more spelled out after we have mett with them.
+
+## Link to GitHub
+[Future Link](https://google.com/)
+```
