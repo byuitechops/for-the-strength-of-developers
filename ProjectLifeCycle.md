@@ -1,4 +1,4 @@
-# Project Management
+# Project Life Cycle
 
 we use scrum, watch this video 
 
