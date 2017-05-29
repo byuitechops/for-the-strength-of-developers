@@ -1,6 +1,6 @@
 # Project Life Cycle
 
-we use scrum, watch this video (Intro to Scrum in Under 10 Minutes)[https://www.youtube.com/watch?v=XU0llRltyFM] 
+we use scrum, watch this video [Intro to Scrum in Under 10 Minutes](https://www.youtube.com/watch?v=XU0llRltyFM)
 
 we have scrum masters that you will report to daily
 
