@@ -7,4 +7,4 @@ This repo contains all of our current development standards
 
 - [Training](./Training.md)
 - [Repository Standards](./repositoryStandards.md)
-- [Project Management](./ProjectMangement.md)
+- [Project Life Cycle](./ProjectLifeCycle.md)
