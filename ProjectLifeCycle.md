@@ -16,7 +16,7 @@ We use github issues, milestones and Projectsfor sprint tracking
 There will be a design approval meeting before development starts
 
 **TODO:**
-make a infographic for the design proccess
+make a infographic for the Project Life Cycle
 
 ## Trello Card Format
 
