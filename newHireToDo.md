@@ -53,7 +53,7 @@ For more info see [Getting Started First Time Git-Setup](https://git-scm.com/boo
 This next command changes the default text editor to notepad++. Without this `git commit` with out the `-m` open vi, a command line text editor.
     
 ```
-git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession"
+git config --global core.editor "\"C:/Program Files (x86)/Notepad++/notepad++.exe\" -multiInst -nosession -notabbar"
 ```
 This next command removes the pager for all git command on Windows. Without this things like `git diff` and `git log` on windows freeze sometimes.
 ```
