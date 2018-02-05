@@ -4,7 +4,7 @@
 
 **Describe the reason why this child module exists, and its goals. Provide *why* it exists, along with *what* it does. Briefly describe *how* it does it.**
 
-This tool was created to fill in the gaps you find in your bread when you finally open up the loaf. It was created because so many people have to deal with so much less bread. This module creates goodness in the world by placing fake break into the holes.
+
 
 ## How to Install
 
@@ -109,6 +109,15 @@ This program outputs a picture of campus centered on the latitude and longitude 
 Example output:
 
 ![This is alt text for the image](http://www.byui.edu/Images/campus-tour/MainArial.jpg)
+
+## Requirements
+
+**List all of the business requirements for the project. What are the expectations for the project? What does it need to be able to do? Example:**
+
+- Must be able to convert all provided strings into awesome quotes from Star Wars
+- Must account for students with disabilities
+- Must be written in promises, without callbacks
+- etc.
 
 ## Development
 
