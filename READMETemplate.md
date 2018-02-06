@@ -17,7 +17,7 @@ npm install --save repository-name
 To install globally, open the console and type:
 
 ```
-npm install -g --save repository-name
+npm install -g repository-name
 ```
 
 
