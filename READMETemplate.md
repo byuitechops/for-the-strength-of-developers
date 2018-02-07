@@ -42,6 +42,22 @@ myTool(requestor [, reportTitle]);
 
 **Make sure to explain any inputs shown above in the section below.**
 
+## CLI
+
+**If your tool has a CLI, make sure to explain how to run it here. Include commands. Flags should be included in Inputs below.**
+
+Example Run Command:
+
+```my-awesome-package -f -a```
+
+## Prompt
+
+**If your tool uses a prompt, explain each question it will ask the user.**
+
+1. What is your name? [string]
+2. What is your quest? [string]
+3. What is your favorite color? [string]
+
 ### Inputs
 
 Describe each input for the tool. Include **where** that input comes from (i.e. a person, the person running the tool, etc.).
