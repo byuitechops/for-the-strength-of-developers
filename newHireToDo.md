@@ -27,10 +27,12 @@ Make sure Node.js is installed on your machine
 
 *   Run the following command in CMD
     *   `node --version`
-    *   make sure that the version number is at least 6.9.5
+    *   make sure that the version number is at the currrent LTS release
 
 *   Add NPM folder to your path
     *   Tutorial is here [https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing](https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing)
+
+* we also might need to have you install a specific version of NPM talk to Josh about that.
 
 ### Install Git
 
