@@ -11,6 +11,7 @@ come up with a policy for learning this
 3.  Immediately Invoked Function Expression aka IIFE
 4.  Higher order functions: functions as parameters
 5.  Polyfill
+    * If you are running JavaScript in 2 different places, and they are not at the same version of JavaScript, polyfills can be used to include new array functions or features like that. You can include polyfills to create these in older versions of JavaScript.
 6.  Designing
     1.  Early Optimisation
     2.  Abstraction
