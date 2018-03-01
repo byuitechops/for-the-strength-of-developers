@@ -17,7 +17,7 @@
     1.  On our team
         * [Josh McKinney](https://github.com/meeple142), [Daniel Green](https://github.com/danverde), [Didymus Benson](https://github.com/didymusbenson), [Ashley Stewart](https://github.com/maeashley), [Zach Williams](https://github.com/zlw11063), [Kevin Whittaker](https://github.com/kevwhitt), [Ben Earl](https://github.com/benjameep), [Sam McGrath](https://github.com/csammcgrath), [Seth Childers](https://github.com/sethchilders92), [Yura Vasiuk](https://github.com/YuraVasiuk), [Nik Huff](https://github.com/nikhuff), [Theron Dowdle](https://github.com/Colter-Hammer), Cal Wilson
     2.  Explain who we serve
-        * link to document here
+        * BYU-Idaho Online Learning Department & Technical Operations [Explanation](https://docs.google.com/document/d/1hNF8T0KlzQvcIrKNtEbwmT-__ejmMBvKUsXfP9-RJXo/edit?usp=sharing)
     3.  how online courses are made
         * link info graphic 
 5.  Heating and AC
@@ -34,10 +34,13 @@
     2.  Canvas: The prospective future LMS for BYU-Idaho. We use API functions to communicate with their servers to test the conversion tool.
     4.  Github: Use this on a daily basis to keep track of projects, push, branch, and fork existing code.
     3.  Equella: The University's current Content Management System. Used rarely, but important to context of specific projects.
-    6.  Kaltura: The University's current Video Platform. USed rarely, but important to context of specific projects.
+    6.  Kaltura: The University's current Video Platform. Used rarely, but important to context of specific projects.
+8. Whiteboard policy
+    * It's great to use the whiteboard to map and visualize the projects you're working on. However, the whiteboards can get pretty full of a bunch of random stuff from multiple people. 
+    * If you need to use the whiteboard and it's full to the point that it needs to be erased, then ask around if anyone still needs that information and if it wasn't theirs to say, take a photo of it (sometimes could be both sides) and upload it to MS Teams.
 
 8.  How to get office supplies
-    1.  The drawers next to Station F have office supplies
+    1.  The drawers next to Station F have office supplies for our office
     1.  LAM 118 - Sister Tonks' office has refills for office supplies, just go to that office and tell her where you work and she will get you the supplies you need.
 
 Background Complete! Go to the next part, called [Getting Help](./help.md)

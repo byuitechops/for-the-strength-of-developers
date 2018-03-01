@@ -1,7 +1,7 @@
 # Core (As you are doing stuff)
 
 ## First Work Project
-At this point students are ready to do a real work project - talk to Josh
+At this point students are eligible to do a real work project - talk to Josh to receive one
 
 come up with a policy for learning this
 
