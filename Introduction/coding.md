@@ -48,7 +48,7 @@
         1.  Bug
             * Add issues on the repository for things that aren't working properly.
         2.  Ideas for improvements
-            * If you have ideas on how to improve code in byuitechops, make an issue.
+            * If you have ideas as you're coding about new features or something that you'd want to make, then go make an issue.
 5.  Markdown
     1.  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
@@ -60,6 +60,7 @@
     2.  Readable code
     3.  Efficient code
     * This order is important. There is so much rollover in this job that the readability factor is far more important than how efficient it is. Maintaining our own code happens over a long time, so we need readable code.
+    * Always choose readable over efficient code. You'll forget code that you wrote last week, so it's fundamental that you make it readable with comments.
 3.  ES6
     1.  Talk to josh for now
     2.  history of js’s evolution
@@ -67,11 +68,13 @@
     3.  [Browser Compatibilities](https://kangax.github.io/compat-table/es6/)
     4.  [Node.green](http://node.green/)
 4.  Array Methods
-    1.  [Learn Markdown](https://www.google.com/url?q=https://github.com/byuitechops/Array-functions/blob/master/learn-arrays.markdown&sa=D&ust=1519691185403000&usg=AFQjCNGN6D7D45RxI15XvBCv_CpJowhCYQ)
+    1.  [Learn Array Methods](https://github.com/byuitechops/Array-functions/blob/master/learn-arrays.markdown)
+        * Do a few of the exercises and then touch base with Josh to make sure you're getting it.
     2.  Data structure manipulation
         1.  Convert CSV of cities
             1.  Headers: name, population, county, state
             2.  To array of state with name and counties which has name and cities that has name and population
+            3. Use [this document](link to Cal's google sheet) to begin the data structure manipulation exercise. 
 2.  Chrome Dev Tools
     1.  Put the word `Debugger;` on a breaking point where you'd like to test your code. When chrome opens, your code will stop on that break point.
     2.  If you haven't learned `console.log` yet, all it does is print words onto the console you're using. Use `console.log` effectively to test your code.  
@@ -88,19 +91,26 @@
         node --inspect-brk myProgram.js
         ``` 
 ###  NPM
+* **note: with the new NPM update there is a huge dependencies issue, so for now install a specific version of NPM by using the code below:**
+```
+npm install npm@4.6.1 -g
+```
 1.  [Important videos](https://docs.npmjs.com/getting-started/what-is-npm)
 2.  Important commands
     *  `Npm install`
     *  `Npm uninstall`
     *  `Npm link`
 3.  Global packages
+    * 
 ###  Semver
 1.  LTS
+    * Learn about [LTS.](https://nodejs.org/en/blog/release/v8.0.0/#long-term-support)
 ###  Repo Standards
 1. Begin by understanding byuitechops [repository standards](../repositoryStandards.md)
 2.  Package.json
-    1.  Git urls
+    1.  Git urls - Adding dependencies that aren't on npm. 
 2.  Readme
+    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template]() for your readme file.
 ###  How the internet works
 1.  Servers In concept
 2.  Brower Server Dance
@@ -109,8 +119,11 @@
 2.  Test knowledge of the node pattern
 ### Good Node Libraries
 1.  path
+    * [Documentation](https://nodejs.org/api/path.html)
 2.  URL
+    * [Documentation](https://nodejs.org/api/url.html)
 3.  Querystring
+    * [Documentation](https://nodejs.org/api/querystring.html)
 ###  Testing for Quality Control
 1.  Unit Tests
 2.  End to End Testing

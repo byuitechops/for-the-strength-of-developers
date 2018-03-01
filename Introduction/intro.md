@@ -1,6 +1,11 @@
 # Intro - part I
 
 ##  Work Standards
+1.  Scheduling
+    * Minimum of 15 hours/week
+    * Sign up for your hours by going to the [Team Drive](https://drive.google.com/drive/folders/0AO_BDyUOTRgoUk9PVA) and clicking on Work Schedule, then find the corresponding semester and choose your hours for the following two weeks. 
+    * If it is absolutely necessary for you to go under 15 hours a week, talk to Josh as soon as possible and resolve any issues beforehand.
+    * Try to sign up for the same computer, so you don't have to setup multiple computers to your personal preferences annd/or install things.
 1.  No working at home
     * Standard is there is no working at home
     * Exceptions can be made, distinctions will need to be made between what is working and what is not working

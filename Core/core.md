@@ -18,7 +18,9 @@ come up with a policy for learning this
     3.  UML Diagrams
         1. Sequence Diagram
     3.  Zooming in/out
-        1.  Put all the action in one spot make it easy to zoom in/out
+        *  Put all the action in one spot make it easy to zoom in/out
+        * Need the ability to look at the whole picture, but you can also solve pieces of it by forgetting the whole picture.
+        * Make the pieces of your code "divisible" so that you can focus one problem at a time, without having to solve the whole problem right then and there.         
     4.  Cohesion and Coupling
     5.  Key components document
     6.  Thinking within reusable tools
