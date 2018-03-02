@@ -14,6 +14,8 @@
     ```
     cls
     ```
+3. To use the most recent command, use the ↑ and ↓ buttons on your keyboard to scroll through your most recent commands. You can also use F7 while in CMD to view your last 6-7 commands and choose from those.
+
 1. Open in CMD from File Directory
     * Use your file directory and go to the folder you'd like to open in the command line. then use the keybinding  **Shift+right click** and choose "open in command window"
     * If Command Window does not show up, you can choose to    
@@ -55,12 +57,15 @@
 ##  Basic Code Lessons
 ###  JavaScript
 1.  Linting - eslint
+    * ESLint [Doc](https://eslint.org/docs/user-guide/configuring)
 2.  Designing - 3 legged stool
     1.  Working code
+        * We don't want code that doesn't work. The first requirement is that your code is functional.
+        * If you need help making your code functional, please ask for help
     2.  Readable code
+        * There is so much rollover in this job that the readability factor is far more important than how efficient it is. Maintaining our own code happens over a long time, so we need readable code.
     3.  Efficient code
-    * This order is important. There is so much rollover in this job that the readability factor is far more important than how efficient it is. Maintaining our own code happens over a long time, so we need readable code.
-    * Always choose readable over efficient code. You'll forget code that you wrote last week, so it's fundamental that you make it readable with comments.
+        * Always choose readable over efficient code. You'll forget code that you wrote last week, so it's fundamental that you make it readable with comments.
 3.  ES6
     1.  Talk to josh for now
     2.  history of js’s evolution
@@ -70,6 +75,7 @@
 4.  Array Methods
     1.  [Learn Array Methods](https://github.com/byuitechops/Array-functions/blob/master/learn-arrays.markdown)
         * Do a few of the exercises and then touch base with Josh to make sure you're getting it.
+        * When you've completed the Array Methods exercises, come back to this page.
     2.  Data structure manipulation
         1.  Convert CSV of cities
             1.  Headers: name, population, county, state
@@ -91,6 +97,7 @@
         ```
         node --inspect-brk myProgram.js
         ``` 
+    * You then can add breakpoints and view output in the browser.
 ###  NPM
 * **note: with the new NPM update there is a huge dependencies issue, so for now install a specific version of NPM by using the code below:**
 ```
@@ -104,10 +111,10 @@ npm install npm@4.6.1 -g
 3.  Global packages
     * Having a global package means that you can run this code from any directory on your computer. 
     * 
-###  Semver
-* Learn about [Semver](https://docs.npmjs.com/misc/semver).
-1.  LTS
-    * Learn about [LTS.](https://nodejs.org/en/blog/release/v8.0.0/#long-term-support)
+4.  Semver
+    * Learn about [Semver](https://docs.npmjs.com/misc/semver).
+    1.  LTS
+        * Learn about [LTS.](https://nodejs.org/en/blog/release/v8.0.0/#long-term-support)
 ###  Repo Standards
 1. Begin by understanding byuitechops [repository standards](../resources/repositoryStandards.md)
 2.  Package.json
@@ -129,7 +136,7 @@ npm install npm@4.6.1 -g
     * Provides functionalities when working with parsing URLs.
     * [Documentation](https://nodejs.org/api/url.html)
 3.  Querystring
-    * Proivdes functionalities when working with URLs and parsing query strings.
+    * Provides functionalities when working with URLs and parsing query strings.
     * [Documentation](https://nodejs.org/api/querystring.html)
 ###  Testing for Quality Control
 1.  Unit Tests
@@ -156,3 +163,8 @@ npm install npm@4.6.1 -g
 ###  Project life-cycle
 * Project Life Cycle just refers to how we receive, process, and propose code solutions on the Development Team. 
 * Read about our project life cycle [here.](./resources/Project LifeCycle [Draft].md)
+
+## Training Continuation
+Congrats! You made it through the first training lesson. You're now ready for a project. Make sure you check in with Josh and get a project to work on. 
+
+As you work on this project, go ahead and learn the Javascript lessons listed in the [Core Training](../core/core.md). Most, if not all will be helpful to you in your upcoming projects and knowledge. 
