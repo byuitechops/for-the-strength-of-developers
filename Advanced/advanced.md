@@ -10,3 +10,4 @@
 8.  D3
 9.  Angular
 10.  Polymer
+11. [Chrome Extensions](./advancedLearning.md)

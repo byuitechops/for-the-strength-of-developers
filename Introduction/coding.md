@@ -74,10 +74,10 @@
         1.  Convert CSV of cities
             1.  Headers: name, population, county, state
             2.  To array of state with name and counties which has name and cities that has name and population
-            3. Use [this document](link to Cal's google sheet) to begin the data structure manipulation exercise. 
+            3. Use [this document](../resources/instructions.md) to begin the data structure manipulation exercise. 
 2.  Chrome Dev Tools
     1.  Put the word `Debugger;` on a breaking point where you'd like to test your code. When chrome opens, your code will stop on that break point.
-    2.  If you haven't learned `console.log` yet, all it does is print words onto the console you're using. Use `console.log` effectively to test your code.  
+    2.  If you haven't learned `console.log` yet, all it does is print words onto the console you're using. Use `console.log` to print to your console at different points in your code to help you effectively to test it.  
 2.  Learnyounode lessons 1-3
     1.  The learnyounode exercises will direct you to outdated documentation. The new documentation on these functions can be found [here.](https://nodejs.org/api/synopsis.html)
     2. Get started by running the following in cmd
@@ -85,6 +85,7 @@
         npm install -g learnyounode
         ```
     3. After you install, run `learnyounode`. The program will open and you can begin with exercise 1.
+    4. When you have completed exercises 1-3, come back to this page.
 3.  Node Debugging - Chrome Dev Tools
     * To debug your program in the node debugger with Chrome, use 
         ```
@@ -101,16 +102,18 @@ npm install npm@4.6.1 -g
     *  `Npm uninstall`
     *  `Npm link`
 3.  Global packages
+    * Having a global package means that you can run this code from any directory on your computer. 
     * 
 ###  Semver
+* Learn about [Semver](https://docs.npmjs.com/misc/semver).
 1.  LTS
     * Learn about [LTS.](https://nodejs.org/en/blog/release/v8.0.0/#long-term-support)
 ###  Repo Standards
-1. Begin by understanding byuitechops [repository standards](../repositoryStandards.md)
+1. Begin by understanding byuitechops [repository standards](../resources/repositoryStandards.md)
 2.  Package.json
     1.  Git urls - Adding dependencies that aren't on npm. 
 2.  Readme
-    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template]() for your readme file.
+    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../resources/READMETemplate.md) for your readme file.
 ###  How the internet works
 1.  Servers In concept
 2.  Brower Server Dance
@@ -118,15 +121,38 @@ npm install npm@4.6.1 -g
 1.  Learnyounode lessons 4-13
 2.  Test knowledge of the node pattern
 ### Good Node Libraries
-1.  path
+* The ones listed are the most common ones we use in the office.
+1.  Path
+    * Provides functionalities working with file directories and their paths.
     * [Documentation](https://nodejs.org/api/path.html)
 2.  URL
+    * Provides functionalities when working with parsing URLs.
     * [Documentation](https://nodejs.org/api/url.html)
 3.  Querystring
+    * Proivdes functionalities when working with URLs and parsing query strings.
     * [Documentation](https://nodejs.org/api/querystring.html)
 ###  Testing for Quality Control
 1.  Unit Tests
 2.  End to End Testing
 3.  Tap
 ###  Async-you
+1. Complete the async-you challenges. 
+    * Make sure you have Node.js installed on your machine.
+    * If you haven't installed the npm package 'async', run the following:
+    ```
+    npm install async
+    ```
+    * Enter the following to install program:
+    ```
+    npm install async-you -g
+    ```
+    to run:
+    ```
+    async-you
+    ```
+2. The program tells you how to test and verify your solution.
+2. Here is the [documentation](https://caolan.github.io/async/docs.html) if you need it.
+2. If you have any questions, be sure to ask those around you as well as Josh.
 ###  Project life-cycle
+* Project Life Cycle just refers to how we receive, process, and propose code solutions on the Development Team. 
+* Read about our project life cycle [here.](./resources/Project LifeCycle [Draft].md)

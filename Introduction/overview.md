@@ -1,7 +1,8 @@
 # Introduction
 
 ## Computer Setup
-1. Setup these [Accounts](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#make-accounts-in-all-following-places) if you don't already have them.
+1. Configure your computer with good settings in command line by following the directions listed [here](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#set-up-your-computer)
+2. Setup these [Accounts](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#make-accounts-in-all-following-places) if you don't already have them.
 2. Setup and/or configure the [Applications](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/newHireToDo.md#install-applications)
 3. Ask questions if you need help!
 

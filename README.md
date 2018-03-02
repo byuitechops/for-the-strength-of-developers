@@ -5,6 +5,6 @@ This repo contains all of our current development standards
 
 ## Sections
 
-- [Repository Standards](./repositoryStandards.md)
 - [Training](./Introduction/overview.md)
-- [Project Life Cycle](./ProjectLifeCycle.md)
+- [Repository Standards](./resources/repositoryStandards.md)
+- [Project Life Cycle](./resources/ProjectLifeCycle.md)
