@@ -2,19 +2,20 @@
 
 Insert policy here
 
-## First Work Project
-At this point students are eligible to do a real work project - talk to Josh to receive one
-
-come up with a policy for learning this
+## Core Training
 
 1.  Everything is an object
-    1.  Primitive data types
+1.  Primitive data types
 2.  Js variable hoisting
+    - using variables before they are declared.
+    - learn about [variable hoisting.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
 3.  Immediately Invoked Function Expression aka IIFE
     * MDN IIFE [Explanation](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 4.  Higher order functions: functions as parameters
-5.  Polyfill
-    * If you are running JavaScript in 2 different places, and they are not at the same version of JavaScript, polyfills can be used to include new array functions or features like that. You can include polyfills to create these in older versions of JavaScript.
+
+5.  Polyfills
+    * If you are running JavaScript in 2 different places, and they are not at the same version of JavaScript, polyfills can be used to include new array functions or features like that. 
+    * You can include polyfills to create these new features in older versions of JavaScript.
 6.  Designing
     1.  Early Optimisation
     2.  Abstraction
@@ -23,15 +24,19 @@ come up with a policy for learning this
     3.  Zooming in/out
         *  Put all the action in one spot make it easy to zoom in/out
         * Need the ability to look at the whole picture, but you can also solve pieces of it by forgetting the whole picture.
-        * Make the pieces of your code "divisible" so that you can focus one problem at a time, without having to solve the whole problem right then and there.         
+        * Make the pieces of your code "divisible" so that you can focus on one problem at a time, without having to solve the whole problem right then and there.         
     4.  Cohesion and Coupling
     5.  Key components document
     6.  Thinking within reusable tools
         1.  Reusable
         2.  Easier to test
 7.  Scopes and closures
+    * Scopes [MDN Glossary](https://developer.mozilla.org/en-US/docs/Glossary/Scope) & Closures [MDN glossary](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
+    * Scopes in Javascript [article](https://scotch.io/tutorials/understanding-scope-in-javascript#toc-scope-in-javascript)
+    * CSS-Tricks on [scopes and closures](https://css-tricks.com/javascript-scope-closures/)
 8.  API introduction
-    * MDN API [Documentation](https://developer.mozilla.org/en-US/docs/Glossary/API)
+* MDN API [Documentation](https://developer.mozilla.org/en-US/docs/Glossary/API)
+* Example: [Canvas API](https://canvas.instructure.com/doc/api/index.html)
 9.  Running Code in d2l
     1.  Live-Development-Server [repo](https://github.com/byuitechops/live-development-server)
     2.  Webdav
@@ -50,7 +55,7 @@ come up with a policy for learning this
         * [Documentation](https://github.com/flatiron/prompt)
 17.  cheerio/jquery
         1. Cheerio [Documentation](https://github.com/cheeriojs/cheerio)
-        2. JQuery
+        2. JQuery [Explanation/Documentation](https://jquery.com/)
 18.  Canvas-wrapper
         * API wrapper for the d2l conversion tool.
 19.  HTML templating
