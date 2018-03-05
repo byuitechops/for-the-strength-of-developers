@@ -120,7 +120,7 @@ npm install npm@4.6.1 -g
 2.  Package.json
     1.  Git urls - Adding dependencies that aren't on npm. 
 2.  Readme
-    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../resources/READMETemplate.md) for your readme file.
+    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../resources/readmetemplate.md) for your readme file.
 ###  How the internet works
 1.  Servers In concept
 2.  Brower Server Dance

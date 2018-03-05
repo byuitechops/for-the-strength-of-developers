@@ -2,7 +2,7 @@
 
 ##  Getting Help
 1.  Getting Help from coworkers/Josh
-    * There's a lot to learn, so please ask questions no matter how often.
+    * There's a lot to learn, so please ask questions **no matter how often.**
 2.  How to learn from the Internet
     * We are asked to do a lot of things that we don't know how to do, and things that presumably no one at the University has been asked to do, therefore, we must be good at learning from the internet.
     1.  Copying code from the Internet
@@ -15,6 +15,7 @@
                 * Under certain permissions, you are allowed to use someone else's work.
                 * Teaching or using copies for educational purposes is not an infringement of copyright. In many cases we are teaching but since this office is on the business side of the University, the purpose could be for business purposes.
             3.  Nate Wise
+                * Digital Content & Intellectual Property Rights faculty member at BYU-Idaho. If you have any serious concerns, get in contact with him.
             4.  Risk assessment
                 * Spirit of the Law - trying to do the right thing the right way with the code as the license was written. 
                 * Letter of the Law - following the law as it is written
@@ -33,11 +34,11 @@
         3.  What we make is [MIT](https://choosealicense.com/licenses/mit/)
             * [See licenses](https://choosealicense.com/)
         4.  Stack Overflow, Css Tricks, W3, MDN
-            1. [Stack Overflow license](https://creativecommons.org/licenses/by-sa/3.0/)
-            2. [CSS tricks license](https://css-tricks.com/license/)
-            2. [w3schools license](https://www.w3schools.com/about/about_copyright.asp)
-            2. [MDN license](https://developer.mozilla.org/en-US/docs/MDN/About#Copyrights_and_licenses)
-    2.  MDN
+            1. Stack Overflow [license](https://creativecommons.org/licenses/by-sa/3.0/)
+            2. CSS tricks [license](https://css-tricks.com/license/)
+            2. W3schools [license](https://www.w3schools.com/about/about_copyright.asp)
+            2. MDN [license](https://developer.mozilla.org/en-US/docs/MDN/About#Copyrights_and_licenses)
+    2.  MDN (learning from the internet cont.)
         * No attribution is required
         * Documentation is really clean. They always include a description of the function, a demo of it that you can run on the page, parameters and a return value.
         * The documentation also includes multiple examples of that function and when it was invented. 
@@ -48,7 +49,7 @@
         2. Our audience is really important, since we build things that end up all over the world, but we also build stuff only for people in this building.
     6.  Reading Documentation
         * Reading to find Solutions
-            1. Make sure you have the problem clearly defined before you start your search
+            1. Clearly define your problem before you start your search
             3. You can very well find solutions to problems by reading to find solutions, but sometimes it doesn't mean you understand it.
             2. Make sure you understand why that solution works and what makes it different from your original solution.
             4. Can be effective - doesn't necessarily help you learn what you're doing or why it works, but does get the job done.
