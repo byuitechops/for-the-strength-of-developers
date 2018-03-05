@@ -14,6 +14,10 @@
     ```
     cls
     ```
+3. Open File directory in current location
+    ```
+    start .
+    ```
 3. To use the most recent command, use the ↑ and ↓ buttons on your keyboard to scroll through your most recent commands. You can also use F7 while in CMD to view your last 6-7 commands and choose from those.
 
 1. Open in CMD from File Directory
