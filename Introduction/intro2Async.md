@@ -28,9 +28,7 @@
 1. Complete the async-you challenges. 
     * Make sure you have Node.js installed on your machine.
     * If you haven't installed the npm package 'async', run the following:
-    ```
-    npm install async
-    ```
+
     * Enter the following to install program:
     ```
     npm install async-you -g
