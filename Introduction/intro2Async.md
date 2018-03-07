@@ -48,4 +48,4 @@
 # Training Continuation
 Congrats! You made it through the first training lesson. You're now ready for a project. Make sure you check in with Josh and get a project to work on. 
 
-As you work on this project, go ahead and learn the Javascript lessons listed in the [Core Training](../Core/core.md). Most, if not all will be helpful to you in your upcoming projects and knowledge. 
+As you work on this project, go ahead and learn the Javascript lessons listed in the [Core Training](../Core/core.md). Most, if not all the lessons will be helpful to you in your upcoming projects and knowledge. 

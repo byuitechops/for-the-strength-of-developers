@@ -59,10 +59,10 @@
     1.  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ###  Repo Standards
-1. Begin by understanding byuitechops [repository standards](../resources/repositoryStandards.md)
+1. Begin by understanding byuitechops [repository standards](../Resources/repositoryStandards.md)
 2.  Package.json
     1.  Git urls - Adding dependencies that aren't on npm. 
 2.  Readme
-    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../resources/readmetemplate.md) for your readme file.
+    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../Resources/readmetemplate.md) for your readme file.
 ## Continue
-[Continue](./basciccodelessons.md) to part IV.
+[Continue](./basiccodelessons.md) to part IV.
