@@ -72,6 +72,7 @@
     * To install VScode, click [here](https://go.microsoft.com/fwlink/?LinkID=534107).
     * VScode extensions: 
         * ESLint
+            * If you're having trouble setting up ESLint, ask someone about the linter file. 
         * Beautify
             * Click File> Preferences> Settings, then add this code to enable beautify on save:
             ```
