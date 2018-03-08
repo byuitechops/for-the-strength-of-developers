@@ -37,7 +37,8 @@
         npm install -g learnyounode
         ```
     3. After you install, run `learnyounode`. The program will open and you can begin with exercise 1.
-    4. When you have completed exercises 1-3, come back to this page.
+    4. Create your own github repository for your learnyounode solutions. Just go to the github homepage and click the green "New Repository" button on the right. (Make sure you're signed in to see it)
+    4. **When you have completed exercises 1-3, come back to this page.**
 3.  Node Debugging - Chrome Dev Tools
     * To debug your program in the node debugger with Chrome, use 
         ```
