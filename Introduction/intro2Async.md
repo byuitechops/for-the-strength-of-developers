@@ -6,8 +6,9 @@
 ##  Introduction to Async
 1.  Learnyounode lessons 4-13
 2.  Test knowledge of the node pattern
+    * Folow the instructions in [Do You Know The Async Node-Pattern](https://github.com/byuitechops/do-you-know-the-async-node-pattern)
 ## Good Node Libraries
-* The ones listed are the most common ones we use in the office.
+* You need to know the basics of these libraries. The ones listed are the most common ones we use in the office.
 1.  Path
     * Provides functionalities working with file directories and their paths.
     * [Documentation](https://nodejs.org/api/path.html)
