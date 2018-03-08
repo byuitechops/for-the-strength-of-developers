@@ -35,8 +35,10 @@ Insert policy here
     * Scopes in Javascript [article](https://scotch.io/tutorials/understanding-scope-in-javascript#toc-scope-in-javascript)
     * CSS-Tricks on [scopes and closures](https://css-tricks.com/javascript-scope-closures/)
 8.  API introduction
-* MDN API [Documentation](https://developer.mozilla.org/en-US/docs/Glossary/API)
-* Example: [Canvas API](https://canvas.instructure.com/doc/api/index.html)
+    * MDN API [Documentation](https://developer.mozilla.org/en-US/docs/Glossary/API)
+    * Example: [Canvas API](https://canvas.instructure.com/doc/api/index.html)
+9. ARIA atributes 
+    * [ARIA - MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 9.  Running Code in d2l
     1.  Live-Development-Server [repo](https://github.com/byuitechops/live-development-server)
     2.  Webdav

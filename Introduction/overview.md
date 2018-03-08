@@ -19,3 +19,6 @@
     * The Advanced Training is optional, but may be useful to you as a student and as a future employee in the work force. This training is a compilation of some advanced resources you can learn and use in your work or personal projects. 
         1. [See the Advanced Training.](../Advanced/advanced.md)
         2. [Read about Advanced Options](../Advanced/advanceLearning.md)
+
+## Tips and Tricks
+Find tips and tricks [here.](../Resources/tipstricks.md)
