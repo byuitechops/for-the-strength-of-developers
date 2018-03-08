@@ -1,3 +1,5 @@
+### [Go Back to Advanced](./advanced.md)
+
 # Helpful guides on how to learn things
 
 ## Making Chrome Extensions

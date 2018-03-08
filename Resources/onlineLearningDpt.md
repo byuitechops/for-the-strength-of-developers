@@ -1,3 +1,5 @@
+### [Go Back to Intro](../Introduction/intro.md)
+
 # TechOps Development Team - LAM 210
 
 ## We make solutions for:
@@ -18,3 +20,5 @@
 3. 211 - 213 Middle: Online Curriculum Development & Technical Operations Student Team
 4. 215-221  Right side: Online Curriculum Development and Cary Johnson’s office (215)
 
+Room : Team & Leader
+    Responsibilities

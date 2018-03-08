@@ -1,0 +1,14 @@
+Prepare
+1. Commit Team Members: Course Designer, Students that work for the Course Designer, Course Lead (campus faculty)
+Develop
+- Design and Build the Course
+
+Review
+- Part 1: Christy Owens team reviews the Course for errors, legal, and ADA compliance
+- Part 2: Designers make any fixes necessary
+- Part 3: Decision is made if the Course is ready to pilot
+
+Pilot
+- Typically 1 section of the Course is ran with actual Students
+- The Course Designer works with the Course Lead and a student from Course Support and the Online Instructor to 
+make any changes while the course is running

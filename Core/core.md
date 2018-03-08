@@ -1,3 +1,5 @@
+### [Go Back](../Introduction/training.md)
+
 # Core (As you are doing stuff)
 
 Insert policy here
