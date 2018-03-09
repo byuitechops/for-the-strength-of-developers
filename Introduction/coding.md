@@ -42,6 +42,8 @@
     3.  If in the middle of something make a branch and commit and push
         * Branches - [Learn Branching](https://learngitbranching.js.org/)
     4.  Pull before you push and before you code - especially if it is a group effort.
+    5. If you commit and or commit and push something to Github that you weren't supposed to for security reasons or whatever, there is a process for removing it but removing it from your latest commit is not sufficient.
+        * You will have to clean out the current commit and all previous commit. Ask someone for help on that.
 
 4.  Github
     1.  Pull requests
