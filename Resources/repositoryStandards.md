@@ -15,7 +15,7 @@ Good Example: `rank-widget` Bad Example: `Gamification Space`
 ## Required Files
 
 - package.json
-- README.md (use [READMEtemplate.md](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/READMETemplate.md))
+- README.md (use [READMEtemplate.md](./READMETemplate.md))
 
 ## Suggested Files
 

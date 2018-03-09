@@ -1,4 +1,4 @@
-### [Go Back](../Introduction/training.md)
+### [Go Back to Training](../Introduction/training.md)
 # Advanced
 
 1.  SVG

@@ -11,7 +11,7 @@
         2. [Getting Help](./help.md)
         3. [Begin to Code](./coding.md)
         4. [Basic Code Lessons](./basiccodelessons.md)
-        5. [Introduction to Async](./intro2Async)
+        5. [Introduction to Async](./intro2Async.md)
 2.  Core
     * The Core Training contains fundamental JavaScript concepts and syntax, introductions to good code libraries, design principles, and general information.  **After you've completed the Introduction Training,** continue learning.  
         * [Complete the Core Training.](../Core/core.md)
