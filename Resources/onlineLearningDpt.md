@@ -6,19 +6,32 @@
 ### Online Learning Department 
 - under Alan Young reports to Jon Linford
 ### Curriculum Development Department 
-- under Eric Carl reports to Jon Linford → we service everyone in this building
+- under Eric Karl reports to Jon Linford → we service everyone in this building
 ### 1st floor
-1. 115 - 121 Right side: The rest of online learning: Recruiting, Scheduling, Training, Hiring Online Instructors and the Community
-2. 118 - Online Learning & Campus Curriculum Secretaries
-3. 101-102 Left Side: Course Support & the Course Setup Team 
-4. 103-109 Online Review & Online Research 
-5. 109 - 111 Video: Brian Carter & Visualization Teams under Tim Tanner, graphics and art
+1. See [Map](./LAM%201st%20floor%20infoGraphic.png)
+3. LAM 101: Course Support under Ron Vallejo
+    * Responsibilities
+3. LAM 102: Course Setup Team under Julie Quilter
+    * Responsibilities
+3. LAM 103-104: Online Review under Christy Owens
+    * Responsibilities
+4. LAM 106-108: Online Research Team
+5. LAM 109: Online Video Team under Brian Carter
+6. LAM 110: Online Visualization and Graphic Design Teams under Tim Tanner
+    * Responsibilities
+1. LAM 115-117: Online Community, Online Instructor Training
+2. LAM 118: Online Learning Secretaries, Offices of Eric Karl (over Campus Curriculum) and Alan Young (over Online Curriculum and Design)
+2. LAM 120-122:The rest of Online Learning: Online Instructor Recruiting, Scheduling, Hiring 
 
 ### 2nd floor
-1. 201-203 Left side: CCD Matt Anderson’s team works with campus faculty
-2. 204- 209 Left side: Online Development Teams: Online Design
-3. 211 - 213 Middle: Online Curriculum Development & Technical Operations Student Team
-4. 215-221  Right side: Online Curriculum Development and Cary Johnson’s office (215)
-
-Room : Team & Leader
-    Responsibilities
+1. See [Map](./LAM%202nd%20floor%20infoGraphic.png)
+1. LAM 201-204: Campus Curriculum Development under Matt Anderson  
+    * Works with campus faculty
+2. LAM 206- 208: Online Design Teams
+2. LAM 210: Online Development Team under Josh McKinney
+    * Provide improvements and automation processes for Online Learning
+3. LAM 211-212: Online Curriculum Development 
+3. LAM 213: Technical Operations Student Team
+4. LAM 215: Cary Johnson’s office (reports to Alan Young)
+5. LAM 216-218: Online Curriculum Development & Online Designer Offices
+6. LAM 220-222  Online Curriculum Design

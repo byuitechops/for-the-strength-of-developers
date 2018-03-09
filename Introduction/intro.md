@@ -24,9 +24,9 @@
     1.  On our team
         * [Josh McKinney](https://github.com/meeple142), [Daniel Green](https://github.com/danverde), [Didymus Benson](https://github.com/didymusbenson), [Ashley Stewart](https://github.com/maeashley), [Zach Williams](https://github.com/zlw11063), [Kevin Whittaker](https://github.com/kevwhitt), [Ben Earl](https://github.com/benjameep), [Yura Vasiuk](https://github.com/YuraVasiuk), [Sam McGrath](https://github.com/csammcgrath), [Seth Childers](https://github.com/sethchilders92), [Nik Huff](https://github.com/nikhuff), [Theron Dowdle](https://github.com/Colter-Hammer), Cal Wilson
     2.  Explain who we serve
-        * BYU-Idaho Online Learning Department & Technical Operations [Explanation](../resources/onlineLearningDpt.md)
+        * BYU-Idaho Online Learning Department & Technical Operations [Explanation](../Resources/onlineLearningDpt.md)
     3.  how online courses are made
-        * link info graphic 
+        * [How Courses are made](../Resources/How-a-Course-is-made.pdf)
 5.  Heating and AC
     * In the room directly below us (LAM 109):
         * on the east wall choose AC/Heat, and then move the degrees up or down. There is a min/max on them but you're allowed to do it as often as you like
