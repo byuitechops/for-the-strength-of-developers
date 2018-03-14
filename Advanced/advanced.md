@@ -20,3 +20,20 @@
         * Polymer [info](https://www.polymer-project.org/)
         * Polymer [Github](https://www.polymer-project.org/)
 11. Building [Chrome Extensions](./advancedLearning.md)
+12. Async Recursion
+    * recursive code: using a function that calls itself. 
+    * Example: 
+    ```
+    function factorial(x){
+        if(x===0){
+            return 1;
+        }
+        //return the given number times the factorial of its preceding number
+        return x * factorial(x-1);
+    }
+
+    //expected output: 60
+    console.log(factorial(6));
+    ```
+    * Asynchronous recursion: Recursive code (functions written to call themselves) that is also asynchronous. This can get really tricky with callbacks.
+    * Example:
