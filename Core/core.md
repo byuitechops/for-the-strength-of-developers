@@ -7,10 +7,20 @@ Insert policy here
 ## Core Training
 
 1.  Everything is an object
-1.  Primitive data types
+    1.  Primitive data types - data types that are do not have any methods because they are not an object. (i.e. null, string characters, numbers, undefined)
+    2. Null vs. Undefined in JavaScript
+        1. *null* is a primitive value that represents an absence of a value.
+        2. *undefined* is a primitive value that represents data that is declared, but not defined. Undefined values are not writable, enumerable, or configurable. 
 2.  Js variable hoisting
     - using variables before they are declared.
     - learn about [variable hoisting.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var)
+3. JSON.stringify
+    * method has 3 parameters
+    * (value, replacer, space) - replacer and space are optional
+        * Value: the thing you want to convert into a JSON string.
+        * Replacer: Function or Array that alters the JSON stringify process
+        * Space: String or Number that inputs white space, cannot be greater than 10. 
+    * Read more about [JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
 3.  Immediately Invoked Function Expression aka IIFE
     * MDN IIFE [Explanation](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 4.  Higher order functions: functions as parameters
