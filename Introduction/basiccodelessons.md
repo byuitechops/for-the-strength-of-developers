@@ -20,6 +20,17 @@
     1.  ECMAScript vs js
     3.  [Browser Compatibilities](https://kangax.github.io/compat-table/es6/)
     4.  [Node.green](http://node.green/)
+    5.  These are the most important points of ES6 to know:
+        * [String Interpolation](http://es6-features.org/#StringInterpolation)
+        * [Array Matching](http://es6-features.org/#ArrayMatching)
+        * [Object Matching, Shorthand](http://es6-features.org/#ObjectMatchingShorthandNotation)
+        * [Object Matching, Deep](http://es6-features.org/#ObjectMatchingDeepMatching)
+        * [Object and Array Matching](http://es6-features.org/#ObjectAndArrayMatchingDefaultValues)
+        * [Spread Operator](http://es6-features.org/#SpreadOperator)
+        * Know what let and const are
+        * [Block-Scoped Variables](http://es6-features.org/#BlockScopedVariables)
+        * [Arrow Functions](http://es6-features.org/#ExpressionBodies)
+        * [Default Parameters](http://es6-features.org/#ObjectAndArrayMatchingDefaultValues)
 4.  Array Methods
     1.  [Learn Array Methods](https://github.com/byuitechops/Array-functions/blob/master/learn-arrays.markdown)
         * Do a few of the exercises and then touch base with Josh to make sure you're getting it.
