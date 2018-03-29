@@ -7,7 +7,7 @@ Insert policy here
 ## Core Training
 
 1.  Everything is an object
-    1.  Primitive data types - data types that are do not have any methods because they are not an object. (i.e. null, string characters, numbers, undefined)
+    1.  Primitive data types - data types that are do not have any methods because they are not an object. (i.e. null, string characters, numbers, boolean, undefined)
     2. Null vs. Undefined in JavaScript
         1. *null* is a primitive value that represents an absence of a value.
         2. *undefined* is a primitive value that represents data that is declared, but not defined. Undefined values are not writable, enumerable, or configurable. 
