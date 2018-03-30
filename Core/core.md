@@ -56,7 +56,7 @@ Insert policy here
     2.  Webdav
 10.  Classes
 11.  ES6 Full and beyond
-    1. Look through the rest of [this page](http://es6-features.org/)
+        * Look through the rest of [this page](http://es6-features.org/)
 12.  Promise-it-wont-hurt
         1.  Non-standard disclaimer
         2.  Don’t use a library
