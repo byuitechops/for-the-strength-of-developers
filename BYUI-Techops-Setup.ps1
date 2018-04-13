@@ -24,7 +24,7 @@ Write-Host "`nVSCODE" -ForegroundColor $color;
 # Install the script to install VSCODE
 Install-Script -Name Install-VSCode
 # Run the script to install VSCODE (with extensions)
-Install-VSCode.ps1 #-AdditionalExtensions $extensions
+Install-VSCode.ps1 -AdditionalExtensions $extensions
 
 Write-Host "`nNODEJS" -ForegroundColor $color;
 # Download the NodeJS Installer
