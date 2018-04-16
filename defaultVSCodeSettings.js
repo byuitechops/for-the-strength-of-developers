@@ -1,4 +1,6 @@
 {
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
     "editor.fontSize": 14,
     "editor.formatOnPaste": true,
     "git.autofetch": true,
