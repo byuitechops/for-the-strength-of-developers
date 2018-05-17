@@ -22,5 +22,3 @@
 
 ## Tips and Tricks
 Find tips and tricks [here.](../Resources/tipstricks.md)
-
-<a href="https://www.lds.org" target="_blank" rel="nofollow">lds</a>
