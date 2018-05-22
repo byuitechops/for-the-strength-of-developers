@@ -44,7 +44,7 @@
     6.  **Kaltura:** The University's current Video Platform. Used rarely, but important to context of specific projects.
 8. Whiteboard policy
     * It's great to use the whiteboard to map and visualize the projects you're working on. However, the whiteboards can get pretty full of a bunch of random stuff from multiple people. 
-    * If you need to use the whiteboard and it's full to the point that it needs to be erased, then ask around if anyone still needs that information and if it wasn't theirs to say, take a photo of it (sometimes could be both sides) and upload it to the "whiteboard" channel on MS Teams.
+    * If you need to use the whiteboard and it's full to the point that it needs to be erased, then ask around if anyone still needs that information and if it wasn't theirs to say, take a photo of it (sometimes could be both sides) and upload it to the "dev-whiteboard-pics" channel on Slack.
 
 8.  How to get office supplies
     1.  The drawers next to Station F in our office have supplies for our team.

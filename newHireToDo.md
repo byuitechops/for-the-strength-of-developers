@@ -9,7 +9,6 @@
 *   Equella
 *   Github (make sure to add a professional photo on your profile)
 *   MS Teams
-*   Kaltura
 *   Send your username for Github to mckinneyj@byui.edu
 
 
