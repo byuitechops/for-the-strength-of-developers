@@ -1,4 +1,4 @@
-### [Go Back to Introduction Home](./)
+### [Go Back to Getting Help](./help.md)
 
 # Command Line and Git
 
