@@ -49,3 +49,6 @@
 8.  How to get office supplies
     1.  The drawers next to Station F in our office have supplies for our team.
     1.  LAM 118 - Sister Tonks' office has refills for office supplies, just go to that office and tell her where you work and she will get you the supplies you need.
+
+## Continue
+[Move on to the next section - Introduction](../Introduction)
