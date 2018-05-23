@@ -1,4 +1,4 @@
-### [Go Back to Training](./training.md)
+### [Go Back to Introduction Home](./Introduction)
 
 # Intro - part II
 

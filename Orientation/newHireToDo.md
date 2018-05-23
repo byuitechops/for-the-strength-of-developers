@@ -1,4 +1,4 @@
-### [Go Back to Training](../Introduction/overview.md)
+### [Go Back to Orientation Home](./Orientation)
 
 # New Hire ToDo
 
@@ -85,4 +85,4 @@
         * Baacket Pair Colorizer
     * VScode: [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
 
-Done setting up and installing everything? [Go back](./Introduction/overview.md) to the training.
+Done setting up and installing everything? [Move on](./Orientation/intro.md) to the next section.
