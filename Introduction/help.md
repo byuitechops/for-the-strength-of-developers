@@ -1,8 +1,7 @@
-### [Go Back to Introduction Home](./Introduction)
+### [Go Back to Introduction Home](./)
 
-# Intro - part II
+# Getting Help
 
-##  Getting Help
 1.  Getting Help from coworkers/Josh
     * There's a lot to learn, so please ask questions **no matter how often.**
 2.  How to learn from the Internet

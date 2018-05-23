@@ -1,4 +1,4 @@
-### [Go Back to Training](./training.md)
+### [Go Back to Introduction Home](./)
 # Intro - part V
 ##  How the internet works
 1.  Servers In concept

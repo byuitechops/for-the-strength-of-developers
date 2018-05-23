@@ -1,6 +1,6 @@
-### [Go Back to Training](./training.md)
+### [Go Back to Introduction Home](./)
 
-# Intro - part III
+# Command Line and Git
 
 ##  Command Line
 1. change folder 
@@ -70,4 +70,4 @@
 2.  Readme
     * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](./Resources/READMETemplate.md) for your readme file.
 ## Continue
-[Continue](./basiccodelessons.md) to part IV.
+[Continue](../basiccodelessons.md) to part IV.

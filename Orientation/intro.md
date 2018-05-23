@@ -1,6 +1,6 @@
-### [Go Back to Orientation Home](./Orientation)
+### [Go Back to Orientation Home](./)
 
-# Intro - part I
+# Intro to the Team
 
 ##  Work Standards
 1.  Scheduling

@@ -1,6 +1,6 @@
-### [Go Back to Orientation Home](./Orientation)
+### [Go Back to Orientation Home](./)
 
-# New Hire ToDo
+# Computer Setup
 
 ## Make Accounts in All following places
 
