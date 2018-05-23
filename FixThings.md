@@ -68,4 +68,3 @@
 28. Lit HTML
     * [Look at this](https://malloc.fi/lit-html-javascript-templating-from-polymer-team-google)
 29. Puppeteer
-    
