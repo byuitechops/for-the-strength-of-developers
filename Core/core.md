@@ -80,3 +80,6 @@ Insert policy here
         * [Flexbox Froggy](http://flexboxfroggy.com/)
 21.  Puppeteer
         * [documentation](https://github.com/GoogleChrome/puppeteer)
+
+## Continue
+In your free time, feel free to check out the next section - [Advanced Training](../Advanced)
