@@ -9,5 +9,5 @@ The Introduction Training is all the background information you need to know abo
 
 ## Sections
 
-- [Computer Setup](./Introduction/newHireToDo.md)
-- [Intro to the Team](./Introduction/intro.md)
+- [Computer Setup](./Orientation/newHireToDo.md)
+- [Intro to the Team](./Orientation/intro.md)
