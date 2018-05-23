@@ -1,4 +1,5 @@
-### [Go Back to Advanced Training](./advanced.md)
+### [Go Back to Advanced Training Home](./)
+
 
 # Helpful guides on how to learn things
 

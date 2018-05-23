@@ -1,4 +1,5 @@
-### [Go Back to Training](../Introduction/training.md)
+### [Go Back to Advanced Training Home](./)
+
 # Advanced
 
 1.  SVG
@@ -38,3 +39,6 @@
     ```
     * Asynchronous recursion: Recursive code (functions written to call themselves) that is also asynchronous. This can get really tricky with callbacks.
     * Example:
+
+## Continue
+[Check out the next part.](./advancedLearning.md)

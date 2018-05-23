@@ -68,4 +68,5 @@
     7.  Stay updated with what's happening in JavaScript.
         1.  [O'reilly Newsletters](http://www.oreilly.com/emails/newsletters/index.html)
 
+## Continue
 Buckle up. The next part of training is [coding.](./coding.md)
