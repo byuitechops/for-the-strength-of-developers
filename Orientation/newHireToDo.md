@@ -8,7 +8,7 @@
 *   Canvas
 *   Equella
 *   Github (make sure to add a professional photo on your profile)
-*   MS Teams
+*   Slack
 *   Send your username for Github to mckinneyj@byui.edu
 
 
