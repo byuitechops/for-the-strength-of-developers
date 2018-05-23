@@ -1,4 +1,4 @@
-### [Go Back to Orientation Home](./Orientation)
+### [Go Back to Orientation Home](./)
 
 # Intro - part I
 
