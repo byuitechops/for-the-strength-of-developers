@@ -85,4 +85,4 @@
         * Baacket Pair Colorizer
     * VScode: [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
 
-Done setting up and installing everything? [Move on](./Orientation/intro.md) to the next section.
+Done setting up and installing everything? [Move on](./intro.md) to the next section.
