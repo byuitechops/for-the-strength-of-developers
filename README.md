@@ -9,3 +9,6 @@ This repo contains all of our current development standards and processes.
 - [Introduction](./Introduction)
 - [Core Training](./Core)
 - [Advanced Training](./Advanced)
+
+## Tips and Tricks
+Find tips and tricks [here.](/Resources/tipstricks.md)
