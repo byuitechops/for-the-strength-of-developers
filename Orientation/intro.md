@@ -22,7 +22,7 @@
     2. Campus Curriculum Development under Eric Carl
 4.  Who do we serve
     1.  On our team
-        * [Josh McKinney](https://github.com/meeple142), [Daniel Green](https://github.com/danverde), [Ashley Stewart](https://github.com/maeashley), [Zach Williams](https://github.com/zlw11063), [Kevin Whittaker](https://github.com/kevwhitt), [Ben Earl](https://github.com/benjameep), [Sam McGrath](https://github.com/csammcgrath), [Seth Childers](https://github.com/sethchilders92), [Nik Huff](https://github.com/nikhuff), [Theron Dowdle](https://github.com/Colter-Hammer), [Cal Wilson](https://github.com/Wilson-Cal), [Emma Fisher](https://github.com/emmafisher1720)
+        * [Josh McKinney](https://github.com/meeple142), [Daniel Green](https://github.com/danverde), [Ashley Stewart](https://github.com/maeashley), [Zach Williams](https://github.com/zlw11063), [Kevin Whittaker](https://github.com/kevwhitt), [Ben Earl](https://github.com/benjameep), [Sam McGrath](https://github.com/csammcgrath), [Seth Childers](https://github.com/sethchilders92), [Nik Huff](https://github.com/nikhuff), [Theron Dowdle](https://github.com/Colter-Hammer), [Cal Wilson](https://github.com/Wilson-Cal), [Emma Fisher](https://github.com/emmafisher1720), [Aaron Shiffler](https://github.com/ajshiff), [Seth Farr](https://github.com/sfarri)
     2.  Explain who we serve
         * BYU-Idaho Online Learning Department & Technical Operations [Explanation](../Resources/onlineLearningDpt.md)
     3.  how online courses are made
