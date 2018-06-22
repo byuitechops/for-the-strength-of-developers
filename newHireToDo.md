@@ -1,19 +1,18 @@
+### [Go Back to Training](../Introduction/overview.md)
+
 # New Hire ToDo
 
 ## Make Accounts in All following places
 
-*   Make Github account if you don't have one
-*   Make Trello account if you don't have one
-*   Send your user names for Github and Trello to mckinneyj@byui.edu
+*   D2L
+*   Canvas
+*   Equella
+*   Github (make sure to add a professional photo on your profile)
+*   MS Teams
+*   Send your username for Github to mckinneyj@byui.edu
 
 
 ## Set Up Your Computer
-
-### Slack
-
-*   how to get
-*   why you need
-*   Make sure slack desktop client is installed on your pc
 
 ### Fix the Window's Command Line
 *   Setup command line with good settings
@@ -21,127 +20,69 @@
     *   Follow the instructions
 *   add in the  windows ten stuff
 
-### Install Node
-
-Make sure Node.js is installed on your machine
-
-*   Run the following command in CMD
-    *   `node --version`
-    *   make sure that the version number is at least 6.9.5
-
-*   Add NPM folder to your path
-    *   Tutorial is here [https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing](https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing)
-
-### Install Git
-
-Make sure git is installed on your machine
-
-First check if git is installed on the machine already. Run the command below in CMD to find out.
-```
-git --version
-```
-You can find the download at the following link if you need to install it. [GIT Windows Download](https://git-scm.com/download/win)
-
-You will need to set up git with your github account on on every computer that you use. 
-The required the commands (insert your own name and github email): 
-```
-git config --global user.name "John Doe"
-git config --global user.email johndoe@example.com
-```
-For more info see [Getting Started First Time Git-Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup). 
-
-This next command changes the default text editor to notepad++. Without this `git commit` with out the `-m` open vi, a command line text editor.
-    
-```
-git config --global core.editor "\"C:/Program Files (x86)/Notepad++/notepad++.exe\" -multiInst -nosession -notabbar"
-```
-This next command removes the pager for all git command on Windows. Without this things like `git diff` and `git log` on windows freeze sometimes.
-```
-git config --global --add core.pager cat
-```
-
-
-### Install and Configure Brackets
-First check if Brackets is installed on the machine already. Search the start menu for `brackets` to find out.
-If you need to install it, you can find the installer at the following link. [http://brackets.io/](http://brackets.io/) Please make sure that you install it for all users if there is an option to do so. Once it is installed, install the following extensions.
-
-#### Required:
-*   Beautify (brackets-beautify)
-*   Brackets NPM Registry follow these instructions
-    *   [Brackets NPM Registry](https://github.com/zaggino/brackets-npm-registry#brackets-npm-registry)
-*   Then Brackets NPM Registry extension install this extention (will reload)
-    *   ESLint
-
-*   Markdown Preview
-*   Open In Browser
-*   Open project in terminal (reloads)
-*   Quick Search
-
-#### Optional But Really Nice:
-
-*   Everyscrub
-*   Go to Matching Bracket
-
-### Set These settings in your brackets.json file
-
-*   Follow the instructions here at the following link but use ESLint and not JSHint
-    *   [Brackets Tip Specifying One Linter The Right Way](https://www.raymondcamden.com/2015/03/03/brackets-tip-specifying-one-linter-the-right-way)
-
-*   Two more settings you might want in your preference file
-
-    *   insert the currently selected code hint on tab
-
+### Install Applications
+1. Node.js
+    * Install [Node.js](https://nodejs.org/en/)
+    * In CMD, use this to check if or make sure Node.js is installed on your machine: 
         ```
-        "insertHintOnTab": true,
+        node --version
+        ```
+    *   Make sure that the version number is at the currrent LTS release (Find the current LTS release on the Node.js homepage.)
+
+2. Add NPM folder to your path
+    *   Tutorial is [here](https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing)
+
+    * **also might need to have you install a specific version of NPM talk to Josh about that.**
+
+3. Git
+    1. Install [Git.](https://git-scm.com/download/win)
+    2. Make sure git is installed on your machine by running: 
+        ```
+        git --version
         ```
 
-    *   enable scrolling beyond the end of the document
+    3. You will need to set up git with your github account on on every computer that you use. 
+        * The required the commands (insert your own name and github email): 
+        ```
+        git config --global user.name "John Doe"
+        git config --global user.email johndoe@example.com
+        ```
+        For more info see [Getting Started First Time Git-Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup). 
 
-        ```   
-        "scrollPastEnd": true,
+        This next command changes the default text editor to notepad++. Without this `git commit` with out the `-m` open vi, a command line text editor.
+            
+        ```
+        git config --global core.editor "\"C:/Program Files (x86)/Notepad++/notepad++.exe\" -multiInst -nosession -notabbar"
+        ```
+        This next command removes the pager for all git command on Windows. Without this things like `git diff` and `git log` on windows freeze sometimes.
+        ```
+        git config --global --add core.pager cat
         ```
 
-### Show file extensions in windows
-*   Windows 10 (Link is no longer available!)
+4. VScode
+    * First check if VScode is already installed on your machine. You can do this by trying one of the following commands:
+        ```
+        code .
+        ```
+        OR
+        ```
+        code-insiders .
+        ```
+        If the program does not boot, VScode was not successfully installed.
 
-    *   [https://www.youtube.com/watch?v=leOBJfEDs_4](https://www.youtube.com/watch?v=leOBJfEDs_4)
+    * To install VScode, click [here](https://go.microsoft.com/fwlink/?LinkID=534107).
+    * VScode extensions: 
+        * ESLint
+            * If you're having trouble setting up ESLint, ask someone about the linter file. 
+        * Beautify
+            * Click File> Preferences> Settings, then add this code to enable beautify on save:
+            ```
+            "editor.formatOnSave": true
+            ```
+        * Path Intellisense
+        * Npm Intellisense
+        * Intellisense for CSS class names
+        * Baacket Pair Colorizer
+    * VScode: [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
 
-*   Windows 7
-
-    *   [https://www.youtube.com/watch?v=wxIIskKmUQA](https://www.youtube.com/watch?v=wxIIskKmUQA)
-
-## Learn Stuff
-
-*   Learn git basics here [https://try.github.io](https://try.github.io)
-*   Complete the learnyounode class
-
-    Get started by running the following in cmd
-    ```  
-    npm install -g learnyounode
-    learnyounode
-    ```
-
-*   NPM Videos
-    *   https://docs.npmjs.com/getting-started/what-is-npm
-
-## Things we need to do for New Hires
-
-*   Add to Github
-*   Add to Trello
-*   Invite to Slack
-
-## Training Ideas for later
-
-Very clear on Copyright and licensing
-
-ADA color contrast requirements.
-
-how to see compatibility
-
-MDN
-
-promises
-
-
-
-ARIA atributes [https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
+Done setting up and installing everything? [Go back](./Introduction/overview.md) to the training.

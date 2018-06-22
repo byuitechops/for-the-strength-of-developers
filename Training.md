@@ -24,5 +24,5 @@ This training must be compleated befor you will be alowed to work on a project
 
 This is a list of things that are good to know and you will most likely learn them eventualy while working here.
 
-[Advanced Learning](link)
+[Advanced Learning](./advancedLearning.md)
 
