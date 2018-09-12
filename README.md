@@ -1,7 +1,5 @@
-# for-the-strength-of-developers
-
-# Purpose
-This repo contains all of our current development standards and processes.
+# For The Strength Of Developers
+## BYU-Idaho Tech Ops Dev Policies and Development Standards
 
 ## Sections
 
