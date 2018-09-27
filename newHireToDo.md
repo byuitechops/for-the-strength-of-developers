@@ -83,6 +83,8 @@
         * Npm Intellisense
         * Intellisense for CSS class names
         * Baacket Pair Colorizer
-    * VScode: [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
+    * VS Code [really good keyboard short cuts](https://code.visualstudio.com/docs/editor/codebasics)
+    * [JS in VS Code](https://code.visualstudio.com/docs/languages/javascript)
+    * General VS Code Help : [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
 
 Done setting up and installing everything? [Go back](./Introduction/overview.md) to the training.
