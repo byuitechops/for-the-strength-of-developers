@@ -39,7 +39,7 @@
         1.  Convert CSV of cities
             1.  Headers: name, population, county, state
             2.  To array of state with name and counties which has name and cities that has name and population
-            3. Use [this document](../Resources/instructions.md) to begin the data structure manipulation exercise. 
+            3. Use [this document](https://github.com/byuitechops/city-organizer) to begin the data structure manipulation exercise. 
 2.  Chrome Dev Tools
     1.  Put the word `Debugger;` on a breaking point where you'd like to test your code. When chrome opens, your code will stop on that break point.
     2.  If you haven't learned `console.log` yet, all it does is print words onto the console you're using. Use `console.log` to print to your console at different points in your code to help you effectively to test it.  
