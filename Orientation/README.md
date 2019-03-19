@@ -8,5 +8,7 @@ Follow the Setup/Configure instructions and ASK QUESTIONS if you need help.
 
 ## Sections
 
-- [Computer Setup](./newHireToDo.md)
-- [Intro to the Team](./intro.md)
+- Computer Setup
+- Intro to the Team
+
+## [Start Here](./newHireToDo.md)
