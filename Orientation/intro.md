@@ -1,6 +1,6 @@
-### [Go Back to Training](./training.md)
+### [Go Back to the Computer Setup](./newHireToDo.md)
 
-# Intro - part I
+# Intro to the Team
 
 ##  Work Standards
 1.  Scheduling
@@ -22,7 +22,7 @@
     2. Campus Curriculum Development under Eric Carl
 4.  Who do we serve
     1.  On our team
-        * [Josh McKinney](https://github.com/meeple142), [Daniel Green](https://github.com/danverde), [Didymus Benson](https://github.com/didymusbenson), [Ashley Stewart](https://github.com/maeashley), [Zach Williams](https://github.com/zlw11063), [Kevin Whittaker](https://github.com/kevwhitt), [Ben Earl](https://github.com/benjameep), [Yura Vasiuk](https://github.com/YuraVasiuk), [Sam McGrath](https://github.com/csammcgrath), [Seth Childers](https://github.com/sethchilders92), [Nik Huff](https://github.com/nikhuff), [Theron Dowdle](https://github.com/Colter-Hammer), [Cal Wilson](https://github.com/kilakal), [Emma Fisher](https://github.com/emmafisher1720)
+        * [Josh McKinney](https://github.com/meeple142), [Daniel Green](https://github.com/danverde), [Ashley Stewart](https://github.com/maeashley), [Zach Williams](https://github.com/zlw11063), [Kevin Whittaker](https://github.com/kevwhitt), [Ben Earl](https://github.com/benjameep), [Sam McGrath](https://github.com/csammcgrath), [Seth Childers](https://github.com/sethchilders92), [Nik Huff](https://github.com/nikhuff), [Theron Dowdle](https://github.com/Colter-Hammer), [Cal Wilson](https://github.com/Wilson-Cal), [Emma Fisher](https://github.com/emmafisher1720), [Aaron Shiffler](https://github.com/ajshiff), [Seth Farr](https://github.com/sfarri)
     2.  Explain who we serve
         * BYU-Idaho Online Learning Department & Technical Operations [Explanation](../Resources/onlineLearningDpt.md)
     3.  how online courses are made
@@ -31,12 +31,12 @@
     * In the room directly below us (LAM 109):
         * on the east wall choose AC/Heat, and then move the degrees up or down. There is a min/max on them but you're allowed to do it as often as you like
 6.  Account Usage: 
-    1.  **MS Teams:** Current platform for team communication. Use your student id/student email to create an account.
+    1.  **Slack:** Current platform for team communication. Use your student id/student email to create an account.
         * Need to be on it if you're on the clock
         * Have Josh add you to "Tech Team" conversation.
-        * Recommended to have MS Teams on your mobile device in case you need to be reached about code you wrote or need to be pushed
+        * Recommended to have Slack on your mobile device in case you need to be reached about code you wrote or need to be pushed
         * If you get a message from Josh asking you to complete something, assume it's the next time you're in the office unless it's an emergency
-        * Can use MS Teams to reach Josh when he is out of the office - will do his best to respond
+        * Can use Slack to reach Josh when he is out of the office - will do his best to respond
     1.  **D2L:** As our current Learning Management System (LMS), we write automation processes for and solve inconveniences caused by d2l (brightspace or I-Learn).
     2.  **Canvas:** The prospective future LMS for BYU-Idaho. We use API functions to communicate with their servers to test the conversion tool.
     4.  **Github:** Use this on a daily basis to keep track of projects, push, branch, and fork existing code.
@@ -49,3 +49,6 @@
 8.  How to get office supplies
     1.  The drawers next to Station F in our office have supplies for our team.
     1.  LAM 118 - Sister Tonks' office has refills for office supplies, just go to that office and tell her where you work and she will get you the supplies you need.
+
+## Continue
+Move on to the next section - [Introduction](../Introduction)

@@ -1,8 +1,7 @@
-### [Go Back to Training](./training.md)
+### [Go Back to Command Line and Git](./coding.md)
 
-# Intro - part IV
+#  Basic Code Lessons
 
-##  Basic Code Lessons
 ###  JavaScript
 1.  Linting - eslint
     * ESLint [Doc](https://eslint.org/docs/user-guide/configuring)
@@ -76,5 +75,6 @@ npm install npm@4.6.1 -g
     * Check out [this website](https://semver.org/).
     1.  LTS
         * Learn about [LTS.](https://nodejs.org/en/blog/release/v8.0.0/#long-term-support)
+
 ## Continue
 [Continue](./intro2Async.md) with the introduction to async.

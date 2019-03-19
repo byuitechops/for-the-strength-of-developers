@@ -1,8 +1,7 @@
-### [Go Back to Training](./training.md)
+### [Go Back to Introduction Home](./)
 
-# Intro - part II
+# Getting Help
 
-##  Getting Help
 1.  Getting Help from coworkers/Josh
     * There's a lot to learn, so please ask questions **no matter how often.**
 2.  How to learn from the Internet
@@ -69,4 +68,5 @@
     7.  Stay updated with what's happening in JavaScript.
         1.  [O'reilly Newsletters](http://www.oreilly.com/emails/newsletters/index.html)
 
+## Continue
 Buckle up. The next part of training is [coding.](./coding.md)

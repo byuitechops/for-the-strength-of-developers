@@ -1,10 +1,8 @@
-### [Go Back to Training](../Introduction/training.md)
+### [Go Back to Core Training Home](./)
 
-# Core (As you are doing stuff)
+# Core Training (As you are doing stuff)
 
 Insert policy here
-
-## Core Training
 
 1.  Everything is an object
     1.  Primitive data types - data types that are do not have any methods because they are not an object. (i.e. null, string characters, numbers, boolean, undefined)
@@ -82,3 +80,6 @@ Insert policy here
         * [Flexbox Froggy](http://flexboxfroggy.com/)
 21.  Puppeteer
         * [documentation](https://github.com/GoogleChrome/puppeteer)
+
+## Continue
+In your free time, feel free to check out the next section - [Advanced Training](../Advanced)

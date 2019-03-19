@@ -6,6 +6,10 @@ This repo contains the basic training and computer setup for new hires.
 
 ## Sections
 
-- [Training](./Introduction/training.md)
-- [Repository Standards](./Resources/repositoryStandards.md)
-- [Project Life Cycle](./Resources/ProjectLifeCycle.md)
+- [Orientation](./Orientation)
+- [Introduction](./Introduction)
+- [Core Training](./Core)
+- [Advanced Training](./Advanced)
+
+## Tips and Tricks
+Find tips and tricks [here.](/Resources/tipstricks.md)

@@ -1,6 +1,6 @@
-### [Go Back to Training](./training.md)
+### [Go Back to Getting Help](./help.md)
 
-# Intro - part III
+# Command Line and Git
 
 ##  Command Line
 1. change folder 
@@ -68,6 +68,7 @@
 2.  Package.json
     1.  Git urls - Adding dependencies that aren't on npm. 
 2.  Readme
-    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../Resources/readmetemplate.md) for your readme file.
+    * Use Readme files to document the repo with purpose, functionality, etc. If you're writing a child module, use [this template](../Resources/READMETemplate.md) for your readme file.
+
 ## Continue
-[Continue](./basiccodelessons.md) to part IV.
+[Continue to the next section.](./basiccodelessons.md)

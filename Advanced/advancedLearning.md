@@ -1,5 +1,6 @@
 ### [Go Back to Advanced Training](./advanced.md)
 
+
 # Helpful guides on how to learn things
 
 ## Making Chrome Extensions

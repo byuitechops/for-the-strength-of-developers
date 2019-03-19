@@ -1,6 +1,6 @@
-### [Go Back to Training](../Introduction/overview.md)
+### [Go Back to Orientation Home](./)
 
-# New Hire ToDo
+# Computer Setup
 
 ## Make Accounts in All following places
 
@@ -8,7 +8,7 @@
 *   Canvas
 *   Equella
 *   Github (make sure to add a professional photo on your profile)
-*   MS Teams
+*   Slack
 *   Send your username for Github to mckinneyj@byui.edu
 
 
@@ -87,4 +87,5 @@
     * [JS in VS Code](https://code.visualstudio.com/docs/languages/javascript)
     * General VS Code Help : [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
 
-Done setting up and installing everything? [Go back](./Introduction/overview.md) to the training.
+## Continue
+Done setting up and installing everything? [Move on](./intro.md) to the next section.
