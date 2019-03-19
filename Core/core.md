@@ -61,6 +61,7 @@ Insert policy here
         1.  [Documentation/Introduction](https://github.com/stevekane/promise-it-wont-hurt)
         3.  On Part 12 if no valid url is given to you, use "localhost:1337"
 13.  Async/await
+        * Helpful tutorial: [async-await](https://javascript.info/async-await)
 14.  D3-DSV
         * CSV parser and formatter. [Documentation](https://github.com/d3/d3-dsv)
 15.  Moment
