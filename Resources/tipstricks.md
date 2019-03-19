@@ -1,4 +1,4 @@
-### [Go Back](../)
+### [Go Back](../../../)
 # Tips and Tricks
 https://github.com/byuitechops/for-the-strength-of-developers
 General tips and tricks:
