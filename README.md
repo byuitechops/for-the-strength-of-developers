@@ -10,10 +10,12 @@ This repo contains the basic training and computer setup for new hires.
 
 ## Sections
 
-- [Orientation](./Orientation)
-- [Introduction](./Introduction)
-- [Core Training](./Core)
-- [Advanced Training](./Advanced)
+- Orientation
+- Introduction
+- Core Training
+- Advanced Training
 
-## Tips and Tricks
-Find tips and tricks [here.](/Resources/tipstricks.md)
+## Helful Resources
+Check out these helpful [tips and tricks](/Resources/tipstricks.md)
+
+## [Start Here](./Orientation)

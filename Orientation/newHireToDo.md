@@ -30,8 +30,6 @@
 2. Add NPM folder to your PATH
     *   Tutorial is [here](https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing)
 
-    * **also might need to have you install a specific version of NPM talk to Josh about that.**
-
 3. Git
     1. Make sure git is installed on your machine by running: 
         ```
