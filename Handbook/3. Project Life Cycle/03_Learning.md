@@ -11,14 +11,14 @@ The purpose of the learning phase is to answer the following questions:
 1. How will we break up this project into deliverables? (What will the completion cycle be?)
 
 ### Deliverables
-The deliverable from this phase is defined in the Key Components Doc. It will be a custom deliverable that will be created per project in order to help answer the questions above.
+The deliverable from this phase is determined and defined in your meeting with Josh/Leads when getting your preliminary design approved.
 
 ### Time Estimate: Set Per Project
 - *Depending on the project and knowledge of the developer, the time estimate may differ.*
 
 ## Tutorial of Process
 
-This phase is very simple. Follow the instructions which were approved in the Key Components Doc. When your prototypes/research/tutorials are completed, you are ready to complete the requirements and design.
+This phase is very simple. Follow your instructions which you received from your meeting with Josh/Leads when getting the preliminary design portion of your Key Components Doc approved. When your prototypes/research/tutorials are completed, you are ready to review and complete your requirements and design.
 
 Ways to learn:
-- From Josh, from peers, from Pluralsight, from prototype
+- From Josh, from peers, from Pluralsight, from prototype.
