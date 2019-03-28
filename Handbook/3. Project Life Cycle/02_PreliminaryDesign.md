@@ -15,7 +15,7 @@ This is the second stage of a project. This document that is output from this st
 
 
 ### Deliverables
-1. Key Components Document [template](../02_KeyComponentsDoc.md)
+1. Key Components Document [template](../6.%20Templates/02_KeyComponentsDoc.md)
 
 ### Time Estimate: 1-3 hours
 - *Depending on the project and knowledge of the developer, the time estimate may differ.*

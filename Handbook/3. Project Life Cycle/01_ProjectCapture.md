@@ -1,11 +1,13 @@
 # 01 Project Capture
 
+> "You can’t hit a target you cannot see, and you cannot see a target you do not have." - Zig Ziglar
+
 ## Purpose and Overview
 
 This is the first stage of the project. In fact, this is the stage that gets the initial objective and requirements for the project.
 
 ### Deliverables
-1. Project Capture Document [template](../01_ProjectCapture/01_ProjectCaptureDoc.md)
+1. Project Capture Document [template](../6.%20Templates/01_ProjectCaptureDoc.md)
 
 ### Time Estimate: 1-3 hours
 
@@ -36,16 +38,18 @@ You are at this stage because an idea was decided important enough to potentiall
 			- Be sure to include things that will hinder our progression, for example, they will email us a list of courses to act on
 
 
+## Now that you know the general process, this is how it goes in the office...
+
 ### Best Case:
 
-1. Josh receives a request for work and sets up a meeting.
-1. Josh, a student and the stakeholder meet together and fill out Project Capture Doc on the spot.
-1. Project Capture Doc is approved by a Lead
-1. Leads/Josh determines who will do the project
+1. Josh receives a request for work and sets up the meeting.
+1. Josh, a student and the stakeholder meet together and the student fills out the Project Capture Doc on the spot.
+1. The Project Capture Doc is approved by a Lead
+1. Leads/Josh determines who will do the project (most likely this will be the student who filled out the Project Capture Doc)
     
 ### Worst Case:
 
-1. Josh mentally captures a project from a stakeholder. (A student could gather this information, but only if they make it clear to the stakeholder that the project must be approved by Josh.
+1. Josh mentally captures a project from a stakeholder. (A student could gather this information, but only if they make it clear to the stakeholder that the project must be approved by Josh.)
 1. Josh meets with a student next to a computer and while Josh shares the project, the student fills out the capture doc. (The student in this meeting will most likely be the student who is assigned to the project.)
 1. Project Capture Doc is approved by a Lead.
 1. If the project was not assigned to the student who created the project capture doc, Josh/Leads will assign the project at this time.

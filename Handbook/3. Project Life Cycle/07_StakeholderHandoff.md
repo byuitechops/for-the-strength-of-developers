@@ -1,8 +1,8 @@
 # 07 Stakeholder Handoff
 
-
-
 ## Purpose and Overview
+
+The purpose of the stakeholder handoff is to place the tool in the hands of the stakeholder in such a way, so that their questions are answered and a tutorial is in place, so that anyone can be trained to use the tool by following the tutorial.
 
 ### Time Estimate: 1-3 hours
 - *Depending on the project and knowledge of the developer, the time estimate may differ.*
