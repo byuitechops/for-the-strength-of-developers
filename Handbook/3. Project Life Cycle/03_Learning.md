@@ -19,3 +19,6 @@ The deliverable from this phase is defined in the Key Components Doc. It will be
 ## Tutorial of Process
 
 This phase is very simple. Follow the instructions which were approved in the Key Components Doc. When your prototypes/research/tutorials are completed, you are ready to complete the requirements and design.
+
+Ways to learn:
+- From Josh, from peers, from Pluralsight, from prototype
