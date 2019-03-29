@@ -17,7 +17,7 @@ For example
 > Note: Some or all may not apply to certain projects.
 <!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester>
 
-<!-- Do this by project instead of documents ->
+<!-- Do this by project instead of documents -->
 - [ ] *Approved* Project Capture document(s). Reach out to the leads for assistance if this step is not completed before the next two checkboxs.
     - [ ] Project 1
     - [ ] Project 2 
