@@ -8,8 +8,8 @@
 
 ## Links to Other Docs
 
-[Project Capture]()
-[Key Components]()
+- [Project Capture]()
+- [Key Components]()
 
 ## SetUp / How to Install
 
