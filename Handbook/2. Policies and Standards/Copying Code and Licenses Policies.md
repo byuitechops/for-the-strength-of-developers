@@ -1,4 +1,6 @@
-#  Copying Code from the Internet
+# Copying Code and Licenses Policies
+
+##  Copying Code from the Internet
 ### Copyright - We don't want to get the university in legal trouble.
 1.  Derivative work
     * If you take someone else's work and modify it, you're infringing on thecopyrightofthe original owner.
