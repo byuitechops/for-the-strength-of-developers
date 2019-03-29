@@ -33,7 +33,7 @@
 * Follow the instructions in [Do You Know The Async Node-Pattern](https://github.com/byuitechops/do-you-know-the-async-node-pattern)
 * Complete remaining learnyounode Lessons 7-8, 10-13
 ## Good Node Libraries
-* We have a compiled [list of approved node libraries](../../Handbook/5.%20Approved%20Lists/Approved%20Libraries%20Node). Please review this list before going forward. You need to know the basics of these libraries, so that you do not code something that has already been written!
+* We have a compiled [list of approved node libraries](../../Handbook/5.%20Approved%20Lists/Approved%20Libraries%20Node.md). Please review this list before going forward. You need to know the basics of these libraries, so that you do not code something that has already been written!
 
 ##  Testing for Quality Control
 1.  Unit Tests
