@@ -1,6 +1,4 @@
-### [Go Back to the Computer Setup](./newHireToDo.md)
-
-# Intro to the Team
+# Keep the Commandments
 
 ## Schedule
 ### Fifteen Hours
@@ -9,7 +7,7 @@
 
 * If you desire to work more than 15 hours in a week, please schedule the hours you guarantee that you will be in the office. You may work additional hours that are not scheduled upon approval, but will be held accountable for everything you put on the team schedule.
 
-* You may modifiy your next-week's schedule up-to the day before the week starts (Sunday). If you need to modify it once the week has started, let leadership know and they will work with you on an individual basis.
+* You may modify your next-week's schedule up-to the day before the week starts (Sunday). If you need to modify it once the week has started, let leadership know and they will work with you on an individual basis.
 
 ### At Least Three Days
 * You must be scheduled to work at least three days each week. This way progress can be made on projects, preventing you from becoming a roadblock in terms of progress and communication.
@@ -88,8 +86,3 @@ When arriving at work, the first thing you should do is send a group message to 
 <!-- 8.  How to get office supplies
     1.  The drawers next to Station F in our office have supplies for our team.
     1.  LAM 118 - Sister Tonks' office has refills for office supplies, just go to that office and tell her where you work and she will get you the supplies you need. -->
-
-## Continue
-Good job! You've completed the Orientation Training!
-
-Move on to the [Introduction Training](../Introduction) now.

@@ -1,5 +1,3 @@
-### [Go Back to coding](../Introduction/coding.md)
-
 # Repository Standards
 
 ## Naming the Repository 
@@ -15,7 +13,7 @@ Good Example: `rank-widget` Bad Example: `Gamification Space`
 ## Required Files
 
 - package.json
-- README.md (use [READMEtemplate.md](./READMETemplate.md))
+- README.md (use add link to readme template)
 
 ## Suggested Files
 

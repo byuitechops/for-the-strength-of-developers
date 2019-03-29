@@ -10,35 +10,11 @@ There's a lot to learn, so please ask questions **no matter how often.**
 We are asked to do a lot of things that we don't know how to do, and things that presumably no one at the University has been asked to do, therefore, we must be good at learning from the internet.
 
 ---
-##  Copying code from the Internet
-### Copyright - We don't want to get the university in legal trouble.
-1.  Derivative work
-    * If you take someone else's work and modify it, you're infringing on thecopyrightofthe original owner.
-2.  Fair use
-    * It's all a gray area
-    * Under certain permissions, you are allowed to use someone else's work.
-    * Teaching or using copies for educational purposes is not an infringementofcopyright.In many cases we are teaching but since this office is on thebusinessside of theUniversity, the purpose could be for business purposes.
-3.  Nate Wise
-    * Digital Content & Intellectual Property Rights faculty member at BYU-Idaho.Ifyouhave any serious concerns, get in contact with him.
-4.  Risk assessment
-    * Spirit of the Law - trying to do the right thing the right way with the codeasthelicense was written. 
-    * Letter of the Law - following the law as it is written
-5.  Attribution
-    * If necessary, give attribution where it is due. Read the license carefullyandgiveattribution as pertained in the license.
-    * If there is only one way to code something, then you don't have to attributeiteverytime you use it because it cannot be copyrighted. 
-6.  Distribute vs use
-    * If you're downloading it and using it on your computer, then you're using it.
-    * If you're putting it on the internet for other people to use and download,thenyou'redistributing it. We don't distribute.
+## Copying Code from the Internet
 
-###  Open Source Licensing
-Everything we we do and use is open source.
-1.  Open source vs free
-2.  Github and forking
-    * No matter what license you're under, if you put it on Github, anyone can fork it or use it. 
-    * That's why private users must pay.
+Please Review our [Policies on Licensing and Copying Code from the Internet](../../Handbook/2.%20Policies%20and%20Standards/Copying%20Code%20and%20Licenses%20Policies.md)
 
-###  What we make is [MIT](https://choosealicense.com/licenses/mit/)
-[See licenses](https://choosealicense.com/)
+Here are some good to know licenses to review:
 
 ###  Stack Overflow, Css Tricks, W3, MDN
 1. Stack Overflow [license](https://creativecommons.org/licenses/by-sa/3.0/)
@@ -78,7 +54,7 @@ Everything we we do and use is open source.
 1.  [Compare npm](https://npmcompare.com)
 2. No matter how good our code is, we're a small team. We're not going to beat theworld ifthe world uses it.
 3. Professional work that you produce should be supported by professional work. 
-4. We've compiled a list of common libraries that we use that's a part of the coretraining
+4. We've compiled a list of common libraries that we use that's a part of the coretraining (this list is found in the handbook).
 
 ---
 ##  Stay updated with what's happening in JavaScript.

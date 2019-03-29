@@ -1,6 +1,6 @@
 #  Helpful Links
 
-This is a temperary place that people can put links to helpful places. Make sure to put a title and a description of the link.
+This is a temporary place that people can put links to helpful places. Make sure to put a title and a description of the link.
 
 1. [What 10 Key Questions Should You Ask an External Facilitator Before He/She Is Hired](http://blog.readytomanage.com/what-10-key-questions-should-you-ask-an-external-facilitator-before-heshe-is-hired/)
     1. This may have good questions to ask student workers or actuly new venders
