@@ -10,12 +10,14 @@ For example
 - [ ] Not completed
 - [X] Completed
 
-## One week before official departure date
+## Three Weeks before official departure date
 
 ### Required documents for all ongoing projects assigned on or after March 1, 2019.
 
 > Note: Some or all may not apply to certain projects.
+<!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester>
 
+<!-- Do this by project instead of documents ->
 - [ ] *Approved* Project Capture document(s). Reach out to the leads for assistance if this step is not completed before the next two checkboxs.
     - [ ] Project 1
     - [ ] Project 2 
@@ -33,7 +35,7 @@ For example
 - [ ] All of the projects are sufficiently commented according to the coding guidelines set forth by Josh.
 
 ### Project Transition
-- [ ] Reach out to Josh for names of employee(s) that will be taking over your project.
+- [ ] Reach out to Josh for names of employee(s) that will be taking over your project. <!-- Come up with a list of names that will take over the project and reach out to josh for approval ->
 - [ ] Share your knowledge and explain the design/code of the project(s) with the employees that will be taking over. 
 - [ ] Send an e-mail to each stakeholder for the projects to inform them of the developer change.
     - [ ] Project 1
@@ -61,8 +63,10 @@ For example
 
 - [ ] Remove employee from BYU-Idaho Tech Ops Github organization
 - [ ] Remove employee from Team Google Drive.
-- [ ] Complete process to revoke CCT account
-    - [ ] Remove sandbox 
+- [ ] Complete process to revoke CCT account 
 - [ ] Remove employee from Slack.
 - [ ] Update work schedule
-- [ ] Change passwords to systems that the employee may had access to
+- [ ] Change passwords to systems that the employee may have access to
+<!-- Pluralsight, tech ops admin roles, visual studio license, roles for TFS, toolbox, workday -->
+
+<!-- Hiring/Exit checklist -- enter/undo checklist --- ryan's idea --> 
