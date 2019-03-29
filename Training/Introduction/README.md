@@ -1,4 +1,4 @@
-# for-the-strength-of-developers
+# Training
 
 # Purpose
 

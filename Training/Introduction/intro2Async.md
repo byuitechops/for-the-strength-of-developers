@@ -33,23 +33,15 @@
 * Follow the instructions in [Do You Know The Async Node-Pattern](https://github.com/byuitechops/do-you-know-the-async-node-pattern)
 * Complete remaining learnyounode Lessons 7-8, 10-13
 ## Good Node Libraries
-* You need to know the basics of these libraries. The ones listed are the most common ones we use in the office.
-1.  Path
-    * Provides functionalities working with file directories and their paths.
-    * [Documentation](https://nodejs.org/api/path.html)
-2.  URL
-    * Provides functionalities when working with parsing URLs.
-    * [Documentation](https://nodejs.org/api/url.html)
-3.  Querystring
-    * Provides functionalities when working with URLs and parsing query strings.
-    * [Documentation](https://nodejs.org/api/querystring.html)
+* We have a compiled [list of approved node libraries](../../5.%20Approved%20Lists). Please review this list before going forward. You need to know the basics of these libraries, so that you do not code something that has already been written!
+
 ##  Testing for Quality Control
 1.  Unit Tests
 2.  End to End Testing
 3.  Tap
 ## Project life-cycle
 * Project Life Cycle just refers to how we receive, process, and propose code solutions on the Development Team. 
-* Read about our project life cycle [here](../Resources/ProjectLifeCycle.md)
+* Read about our project life cycle [here](../../Handbook/3.%20Project%20Life%Cycle)
 
 # Training Continuation
 Congrats! You made it through the first training lesson. You're now ready for a project. Make sure you check in with Josh and get a project to work on. 

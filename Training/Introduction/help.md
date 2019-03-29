@@ -78,7 +78,7 @@ Everything we we do and use is open source.
 1.  [Compare npm](https://npmcompare.com)
 2. No matter how good our code is, we're a small team. We're not going to beat theworld ifthe world uses it.
 3. Professional work that you produce should be supported by professional work. 
-4. We've compiled a list of common libraries that we use that's a part of the coretraining
+4. We've compiled a list of common libraries that we use that's a part of the coretraining (this list is found in the handbook).
 
 ---
 ##  Stay updated with what's happening in JavaScript.
