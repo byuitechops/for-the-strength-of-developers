@@ -41,7 +41,7 @@
 3.  Tap
 ## Project life-cycle
 * Project Life Cycle just refers to how we receive, process, and propose code solutions on the Development Team. 
-* Read about our project life cycle [here](../../Handbook/3.%20Project%20Life%Cycle)
+* Read about our project life cycle [here](../../Handbook/3.%20Project%20Life%20Cycle)
 
 # Training Continuation
 Congrats! You made it through the first training lesson. You're now ready for a project. Make sure you check in with Josh and get a project to work on. 
