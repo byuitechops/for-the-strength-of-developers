@@ -4,6 +4,8 @@ These one-on-one's are principally for following up with each employee, making s
 ## Interview Process
 The following is the general process for conducting a one-on-one. 
 
+First, start the interview with a prayer.
+
 General Questions include: 
 1. How are you/personal questions?
 2. What did you work on this week/ what are your current projects?
