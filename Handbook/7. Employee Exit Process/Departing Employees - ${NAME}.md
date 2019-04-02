@@ -20,14 +20,17 @@ For example
 *Important Note:* Some projects may require you to make a quick demo showing the project. Insert link here.
 
 - [ ] Project 1
+    - New Developer: ${newName}
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
 - [ ] Project 2
+    - New Developer: ${newName}
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
 - [ ] Project 3
+    - New Developer: ${newName}
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
