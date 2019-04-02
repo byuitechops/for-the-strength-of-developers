@@ -41,7 +41,7 @@ For example:
 - [ ] All of the projects are sufficiently commented according to the coding guidelines set forth by Josh.
 
 ### Project Transition
-- [ ] Come up with a list of employees that you think would be capable of taking over your prject.
+- [ ] Come up with a list of employees that you think would be capable of taking over your project.
     - [ ] Reach out to Josh to receive approval.
 
 ### Schedule Exit Interview with Josh and/or Leads
