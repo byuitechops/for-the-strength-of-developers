@@ -1,8 +1,8 @@
 # How we Keep a Steady Upward Course
 ## Our System for Continual Improvement
 
-1. Leads, Josh and other guests appropriate to the discussion will meet weekly for at least 1 hour with the purpose of improving
-the systems in the office. Topics may include:
+1. The members of the project taskforce (leads, Josh and others) will meet weekly for at least 1 hour with the purpose of improving
+the systems in the office. (This is called the project taskforce meeting). Topics may include:
 - Handbook Improvements
 - Training Improvements
 
