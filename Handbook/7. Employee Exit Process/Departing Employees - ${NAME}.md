@@ -15,7 +15,7 @@ For example
 ### Required documents for all ongoing projects assigned on or after March 1, 2019.
 
 > Note: Some or all may not apply to certain projects.
-<!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester>
+<!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester -->
 
 *Important Note:* Some projects may require you to make a quick demo showing the project. Insert link here.
 
@@ -69,13 +69,3 @@ For example
 - [ ] Employee can be found in the work schedule.
 - [ ] Employee has a license for Pluralsight.
 - [ ] Employee has a license for Visual Studio
-
-<!--- [ ] Remove employee from BYU-Idaho Tech Ops Github organization
-- [ ] Remove employee from Team Google Drive.
-- [ ] Complete process to revoke CCT account 
-- [ ] Remove employee from Slack.
-- [ ] Update work schedule
-- [ ] Change passwords to systems that the employee may have access to
-Pluralsight, tech ops admin roles, visual studio license, roles for TFS, toolbox, workday -->
-
-<!-- Hiring/Exit checklist -- enter/undo checklist --- ryan's idea --> 
