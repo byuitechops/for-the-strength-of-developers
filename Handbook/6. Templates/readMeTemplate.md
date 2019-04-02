@@ -8,8 +8,9 @@
 
 ## Links to Other Docs
 
-- [Project Capture]()
-- [Key Components]()
+- [Project Capture](./ProjectCapture.md)
+- [Key Components](./KeyComponents.md)
+
 
 ## SetUp / How to Install
 
