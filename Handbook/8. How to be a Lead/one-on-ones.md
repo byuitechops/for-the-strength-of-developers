@@ -29,7 +29,8 @@ If it’s just talking to Josh, help them talk to him right after the meeting.
 
 Now, ask them `"Do you have any suggestions for the leads, for Josh, or for the office?"`
 
-TODO: Add a sentance or two saying that leads should always take suggestions to Josh even if they disagree.
+TODO: Add a sentance or two saying that leads should always take suggestions to Josh even if they disagree.\
+TODO: Add a sentance (MAYBE. after talking with Josh) about tayloring the questions to the week/individual, and only asking a subset of them.
 
 ## Addressing Concerns with an Employee
 If you feel disciplinary action needs to be taken in regards to something outside of the general questions listed above, then:
