@@ -2,7 +2,7 @@
 
 First off, thank you for your time and diligence serving the people of BYU-Idaho and its affiliates. To ensure a smooth exit, please be sure to complete the following:
 
-To utilize this, please copy the Markdown code for this project and create a Markdown file for this. Please replace ${NAME} with your name.
+To utilize this, please copy the Markdown code for this project and create a Markdown file for this. Please replace ${NAME} with your name. Insert the Markdown file in [this repo](https://github.com/byuitechops/the-wall-of-the-fallen).
 
 To actually check things off, please insert an X between [ ].
 
