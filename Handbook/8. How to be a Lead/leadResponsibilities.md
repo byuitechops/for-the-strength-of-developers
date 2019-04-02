@@ -19,6 +19,16 @@ As a lead, you are in charge of the weekly team meetings that happen each Thursd
 1. Conduct the meeting
 1. Have a coding challenge on hand in case there is time after all announcements and trainings are done
 
+### Follow-up
+We want everyone on the team to be a good steward of their time, documentation, and all of their work. This is something we need to consistently train on, seeing as no one is perfect. 
+
+Until everyone reaches perfection, so Seth Childers is exempt from this, one of your main responsibilities is to follow-up on everything to make sure things get done. Things to follow-up on include but are not restricted to:
+
+- **Josh and his to-do's** - some things are priority and he has a lot on his plate so you need to help remind him of time sensitive things
+- **Readme's, Project Captures, Key Components, GitHub project board** - each of these needs to be kept up-to-date by each employee
+- **Announcements from team meetings** - many of the announcements from the team meeting each week need follow-up to ensure team members are implementing the changes that are introduced to the office
+- **Team member goals and assignments made in one-on-ones** - part of each one-on-one is making goals for the week. Be sure to follow-up on the goals they set and help them make improvements. You may want to take notes or ask them to write down their goals each week so follow-up is easier, as well as adding more accountability to help them accomplish their goals
+
 ## Other Responsibilities
 
 ### Hiring
@@ -33,7 +43,6 @@ Leads, as well as other employees upon request, are to help Josh with the hiring
     - 4 - Don't interview them
  1. Setup interviews using the [email templates](https://drive.google.com/drive/u/0/folders/1whhSRbO8UX7EEuUSg8_BjtCRmkyumSKV) and the Google Form found in the team Google Drive
  1. Talk to Josh about the interview process and what to look for in the interviews
-
 
 ### Schedule
 There are two main parts to a lead's responsibilities regarding the schedule:
