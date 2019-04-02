@@ -6,7 +6,7 @@ To utilize this, please copy the Markdown code for this project and create a Mar
 
 To actually check things off, please insert an X between [ ].
 
-For example
+For example:
 - [ ] Not completed
 - [X] Completed
 
@@ -14,7 +14,7 @@ For example
 
 ### Required documents for all ongoing projects assigned on or after March 1, 2019.
 
-> Note: Some or all may not apply to certain projects.
+> Note: Some or all may not apply to certain projects. Ensure to replace ${newName} with the employee that will be taking over your project.
 <!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester -->
 
 *Important Note:* Some projects may require you to make a quick demo showing the project. Insert link here.
