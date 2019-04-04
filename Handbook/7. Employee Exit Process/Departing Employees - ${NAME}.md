@@ -24,16 +24,19 @@ For example:
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
+    - [ ] Updated Project Card ownership to new developer on Project Board
 - [ ] Project 2
     - New Developer: ${newName}
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
+    - [ ] Updated Project Card ownership to new developer on Project Board
 - [ ] Project 3
     - New Developer: ${newName}
     - [ ] *Approved* Project Capture
     - [ ] Key Component Document
     - [ ] Full Design Document
+    - [ ] Updated Project Card ownership to new developer on Project Board
 
 ### Project Documentation
 - [ ] README.md properly filled out for each project worked on.
