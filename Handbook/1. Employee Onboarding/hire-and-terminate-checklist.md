@@ -1,4 +1,4 @@
-# Onboarding and OffBoarding Checklist
+# Onboarding and Offboarding Checklist
 |Accounts|Hire To-do| Terminate To-do|
 |--------|----------|----------------|
 |GitHub|Add to organization|Change to collaborator in organization|
