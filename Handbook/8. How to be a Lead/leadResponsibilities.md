@@ -9,7 +9,7 @@ Conduct one-on-one interviews with each member of the team weekly. Scheduling th
 ### Three P's
 Every day when employees come into work, they are to message the leads and Josh their Progress, Plans, and Problems (Three P's) as found in the [Keep the Commandments](../2.%20Policies%20and%20Standards/Policies.md) page in the training.
 
-TODO: add sentance about reminding employees if they are not messaging you.
+It is also your job to help remind them to do their Three P's if they forget. This is easier to do if they are trained well when they join the team.
 
 ### Team Meetings
 As a lead, you are in charge of the weekly team meetings that happen each Thursday at 2:00pm. Team meeting responsibilities include:
