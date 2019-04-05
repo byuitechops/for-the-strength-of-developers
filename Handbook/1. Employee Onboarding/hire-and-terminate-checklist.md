@@ -1,4 +1,4 @@
-# The Hire-Fire Checklist
+# Onboarding and OffBoarding Checklist
 |Accounts|Hire To-do| Terminate To-do|
 |--------|----------|----------------|
 |GitHub|Add to organization|Change to collaborator in organization|
