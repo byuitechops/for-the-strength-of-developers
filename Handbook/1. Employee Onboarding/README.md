@@ -6,4 +6,4 @@ This section explains the hiring process.
 ## Sections
 
 - [Job Posting]()
-- [On-boarding Checklist]()
+- [Hire and Terminate Checklist]()
