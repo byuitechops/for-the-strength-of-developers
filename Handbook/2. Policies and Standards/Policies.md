@@ -1,4 +1,4 @@
-# Keep the Commandments
+# General Policies and Standards
 
 ## Schedule
 ### Fifteen Hours
