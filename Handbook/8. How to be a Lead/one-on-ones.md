@@ -6,6 +6,8 @@ The following is the general process for conducting a one-on-one.
 
 First, start the interview with a prayer.
 
+If you can, get through all of these questions. If the employee brings up some of their concerns or you see a need to talk further on a subject, then perhaps hand select a few of these instead.
+
 General Questions include: 
 1. How are you/personal questions?
 2. What did you work on this week/ what are your current projects?
@@ -29,8 +31,7 @@ If it’s just talking to Josh, help them talk to him right after the meeting.
 
 Now, ask them `"Do you have any suggestions for the leads, for Josh, or for the office?"`
 
-TODO: Add a sentance or two saying that leads should always take suggestions to Josh even if they disagree.\
-TODO: Add a sentance (MAYBE. after talking with Josh) about tayloring the questions to the week/individual, and only asking a subset of them.
+It is important that you thank them for their suggestions and take them to Josh and the office leadership. If you disagree with them, then try to get more background to understand why they are suggesting what they are. It is still your responsibility to write down what they say and take their suggestions to Josh. If we want them to continue offering suggestions, then we need to avoid putting down their ideas and show that we appreciate their candidness and take note of what they said to discuss at a later time.
 
 ## Addressing Concerns with an Employee
 If you feel disciplinary action needs to be taken in regards to something outside of the general questions listed above, then:
