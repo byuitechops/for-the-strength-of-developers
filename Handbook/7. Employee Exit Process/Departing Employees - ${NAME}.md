@@ -2,11 +2,11 @@
 
 First off, thank you for your time and diligence serving the people of BYU-Idaho and its affiliates. To ensure a smooth exit, please be sure to complete the following:
 
-To utilize this, please copy the Markdown code for this project and create a Markdown file for this. Please replace ${NAME} with your name.
+To utilize this, please copy the Markdown code for this project and create a Markdown file for this. Please replace ${NAME} with your name. Insert the Markdown file in [this repo](https://github.com/byuitechops/the-wall-of-the-fallen).
 
 To actually check things off, please insert an X between [ ].
 
-For example
+For example:
 - [ ] Not completed
 - [X] Completed
 
@@ -14,20 +14,29 @@ For example
 
 ### Required documents for all ongoing projects assigned on or after March 1, 2019.
 
-> Note: Some or all may not apply to certain projects.
-<!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester>
+> Note: Some or all may not apply to certain projects. Ensure to replace ${newName} with the employee that will be taking over your project.
+<!-- Videotape a demo/explanation of projects that only runs ~1 or 2 times a semester -->
 
-<!-- Do this by project instead of documents -->
-- [ ] *Approved* Project Capture document(s). Reach out to the leads for assistance if this step is not completed before the next two checkboxs.
-    - [ ] Project 1
-    - [ ] Project 2 
-- [ ] Key Components document(s)
-    - [ ] Project 1
-    - [ ] Project 2
-- [ ] Full Design document(s), if Proof of Concept/Learning phase has already been completed.
-    - [ ] Project 1
-    - [ ] Project 2
+*Important Note:* Some projects may require you to make a quick demo showing the project. Insert link here.
 
+- [ ] Project 1
+    - New Developer: ${newName}
+    - [ ] *Approved* Project Capture
+    - [ ] Key Component Document
+    - [ ] Full Design Document
+    - [ ] Updated Project Card ownership to new developer on Project Board
+- [ ] Project 2
+    - New Developer: ${newName}
+    - [ ] *Approved* Project Capture
+    - [ ] Key Component Document
+    - [ ] Full Design Document
+    - [ ] Updated Project Card ownership to new developer on Project Board
+- [ ] Project 3
+    - New Developer: ${newName}
+    - [ ] *Approved* Project Capture
+    - [ ] Key Component Document
+    - [ ] Full Design Document
+    - [ ] Updated Project Card ownership to new developer on Project Board
 
 ### Project Documentation
 - [ ] README.md properly filled out for each project worked on.
@@ -35,12 +44,8 @@ For example
 - [ ] All of the projects are sufficiently commented according to the coding guidelines set forth by Josh.
 
 ### Project Transition
-- [ ] Reach out to Josh for names of employee(s) that will be taking over your project. <!-- Come up with a list of names that will take over the project and reach out to josh for approval ->
-- [ ] Share your knowledge and explain the design/code of the project(s) with the employees that will be taking over. 
-- [ ] Send an e-mail to each stakeholder for the projects to inform them of the developer change.
-    - [ ] Project 1
-    - [ ] Project 2
-- [ ] Continue development with the new employee to ensure a smooth project handover.
+- [ ] Come up with a list of employees that you think would be capable of taking over your project.
+    - [ ] Reach out to Josh to receive approval.
 
 ### Schedule Exit Interview with Josh and/or Leads
 
@@ -59,14 +64,14 @@ For example
 -----------------------
 
 ## Josh/Leads Responsibilites
-> This happens after the employee's final day. Some may not apply and may be removed.
+> Only Leads/Josh should only modify this section. Checked represents that the employee has it. Unchecked means that the employee does not have it.
 
-- [ ] Remove employee from BYU-Idaho Tech Ops Github organization
-- [ ] Remove employee from Team Google Drive.
-- [ ] Complete process to revoke CCT account 
-- [ ] Remove employee from Slack.
-- [ ] Update work schedule
-- [ ] Change passwords to systems that the employee may have access to
-<!-- Pluralsight, tech ops admin roles, visual studio license, roles for TFS, toolbox, workday -->
-
-<!-- Hiring/Exit checklist -- enter/undo checklist --- ryan's idea --> 
+- [ ] Employee can be located in BYU-Idaho Tech Ops Github organization
+- [ ] Employee has roles in TFS.
+- [ ] Employee has access to workday.
+- [ ] Employee is in Team Google Drive.
+- [ ] Employee has CCT account.
+- [ ] Employee is in Slack
+- [ ] Employee can be found in the work schedule.
+- [ ] Employee has a license for Pluralsight.
+- [ ] Employee has a license for Visual Studio
