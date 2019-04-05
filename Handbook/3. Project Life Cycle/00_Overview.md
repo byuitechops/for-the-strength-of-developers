@@ -1,40 +1,49 @@
 # Overview
 
 ## Project Capture
-1. Student is assigned to project
+1. A student is assigned to a project
 1. Student meets with stakeholder or Josh to get project requirements
 1. Student fills out Project Capture Doc
 1. Lead approves Project Capture Doc
 
 ## Preliminary Design
 1. Student creates Magic Box Chart
-1. Create list of libraries that will be used
-1. Run through the checklist of questions
-1. Meet with Josh/leads to discuss your design
+1. Student creates list of libraries that will be used
+1. Student runs through the checklist of questions, preping for the review meeting
+1. Student meets with Josh/leads to discuss the design
 
 ## Learning
-1. Follow the learning plan you created with Josh/leads
+1. Student follows the learning plan created with Josh/leads
 
 ## Finalize Requirements
-1. Update project capture doc as necessary.
-1. If needed meet with the stakeholder to discuss changes to the requirements.
+1. Student updates project capture doc as necessary.
+1. If needed, student meets with the stakeholder to discuss changes to the requirements.
 
 ## Full Design
-1. 
+1. For each component that needs additional explanation, student creates a component chart with explanation, and adds to the Key Components Doc.
+1. For each major module/function student adds how to test that module/function to the Key Componenets Doc.
 
 ## Development
+1. Develop and test the tool/application
+
+<!-- This may be updated later -->
 
 ## Stakeholder Handoff
+1. Give the tool to the stakeholder
+1. In rare cases where it is necessary, additional training material will be given to the stakeholder, so they know how to use the tool/application.
 
 ## Closing
+1. Make sure your documentation is complete.
+1. Update the github project board.
 
+
+<!--
 ## Understand The Problem + How to Solve ((*Design*))
 while (!approved) {
 ^ Produce the Key Components Doc \
 ^^ Learning Proposal for things that are needed to learn, time expectations (not an artifact) \
 ^^^ GetApproval (You, Josh, KeyComponentsDoc, LearningProposal) \
 }
-
 ## Learning Phase ((*Code*))
 while  ( (!Learned && !TimesUp) || !DeliverableCreated) { \
    Learned = LearnFromPeer(Employee, Topic); \
@@ -43,38 +52,6 @@ while  ( (!Learned && !TimesUp) || !DeliverableCreated) { \
    DeliverableCreated = MakeDeliverable(); \
    Learned = LearnFromJosh(); \
 }
+-->
 
-## Finalize Requirements ((*Capture*))
-
-
-## Fully Design ((*Design*))
-
-
-## Fully Dev ((*Code*))
-
-
-## Deliver Deliverable
-
-
-## Code Review
-
-
-
-1. Project Capture
-1. Key Components
-  1. Meet with Lead to Review
-  1. Meet with Josh to Review
-1. Learning Phase
-
-
-1. SRS
-1. SDD
-1. 
-1. 
-
-Capture
-Design
-Code
-Capture
-Design
-Code
+Capture Design Code Capture Design Code -> CDC^2
