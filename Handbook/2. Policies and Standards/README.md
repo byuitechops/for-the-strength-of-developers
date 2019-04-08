@@ -9,3 +9,4 @@ This section contains all policies and standards for our team.
 - [Linting Standards]()
 - [Versioning Standards]()
 - [Working with Stakeholders Standards]()
+- [Being a good steward]()
