@@ -8,5 +8,5 @@ This section contains all policies and standards for our team.
 - [General Policies]()
 - [Linting Standards]()
 - [Versioning Standards]()
-- [Working with Stakeholders Standards]()
+- [Working with Stakeholders]()
 - [Being a good steward]()
