@@ -10,6 +10,9 @@ If the designated mode of contact proves ineffective, follow these steps:
 
 You may desire to skip straight to calling them or visiting them, depending on the urgency of the issue. 
 
+## Emails
+You must CC Josh on every email sent to stakeholders. This is so he can stay in the loop and help where needed. If you do not hear back from them within two days, you may follow-up with another email. Calling them or going to their office may prove to be more effective, and you may call them at any time within office hours.
+
 ## Professionalism and Dress
 As employees of the school, it is important that you act professionally. Always greet them cordially and thank them for their time and help. 
 
