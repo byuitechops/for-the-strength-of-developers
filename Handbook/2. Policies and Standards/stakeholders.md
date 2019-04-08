@@ -1,6 +1,6 @@
 # Working with Stakeholders
 ## Communication
-First and foremost, when the stakeholder makes a project request, a [Project Capture](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/Handbook/6.%20Templates/01_ProjectCaptureDoc.md) document should be filled out. At the bottom of each Project Capture document there is a section titled **Best Mode of Contact**. What is written in this section should be the primary mode used to contact the given stakeholder.
+First and foremost, when the stakeholder makes a project request, a [Project Capture](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/Handbook/6.%20Templates/01_ProjectCaptureDoc.md) document should be filled out. At the bottom of each Project Capture document there is a section titled `Best Mode of Contact`. What is written in this section should be the primary mode used to contact the given stakeholder.
 
 If the designated mode of contact proves ineffective, follow these steps:
 
