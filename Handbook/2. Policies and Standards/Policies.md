@@ -45,39 +45,9 @@ When arriving at work, the first thing you should do is send a group message to 
 * Clock in and out a bunch of times honestly rather than doing anything dishonest
     * Being paid with tithing funds  
 
-## Who are we
-* "A little code goes a long way"
-* Online Technical Operations - IT
-* The rest of IT does the heavy lifting. We build automations, cool tools, etc.
-<!-- 3.  Tech Ops - under Jon Linford (Online Vice President)
-    1. Online Learning Department under Alan Young
-    2. Campus Curriculum Development under Eric Carl -->
-## Who do we serve
-* On our team
-    * [Check out who's on our team!](https://github.com/orgs/byuitechops/people)
-<!-- 2.  Online Learning and Technical Operations
-    * BYU-Idaho Online Learning Department & Technical Operations [Explanation](..Resources/onlineLearningDpt.md)
-3.  How online courses are made
-    * [How Courses are made](../Resources/How-a-Course-is-made.pdf) -->
-
 ## Heating and AC
 * In our room (LAM 111):
     * on the east wall choose AC/Heat, and then move the degrees up or down. There is a min/max on them but you're allowed to do it as often as you like
-
-## Account Usage: 
-* **Slack:** Current platform for team communication. Use your student id/student email to create an account.
-    * Need to be on it if you're on the clock
-    * Have Josh add you to "Tech Team" conversation.
-    * Recommended to have Slack on your mobile device in case you need to be reached about code you wrote or need to be pushed
-    * If you get a message from Josh asking you to complete something, assume it's the next time you're in the office unless it's an emergency
-    * Can use Slack to reach Josh when he is out of the office - will do his best to respond
-    
-* **D2L:** The current Learning Management System (LMS) that we are transitioning out of, we write automation processes for and solve inconveniences caused by d2l (brightspace or I-Learn).
-* **Canvas:** The new LMS for BYU-Idaho. We use API functions to communicate with their servers to automate processes and solve problems across courses.
-* **GitHub:** Use this on a daily basis to keep track of projects, push, branch, and fork existing code.
-* **Google Drive:** Where we store our HR stuff, as well as special reports and documentation (most of this is stored in GitHub, so only put things in here when asked to).
-* **Equella:** The University's current Content Management System. Used rarely, but important to context of specific projects.
-* **Kaltura:** The University's current Video Platform. Used rarely, but important to context of specific projects.
 
 ## Whiteboard policy
 * It's great to use the whiteboard to map and visualize the projects you're working on. However, the whiteboards can get pretty full of a bunch of random stuff from multiple people. 
