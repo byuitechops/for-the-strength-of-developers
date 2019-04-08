@@ -34,3 +34,12 @@ For example:
   - [ ] Please read and understand the information [found here](https://github.com/byuitechops/for-the-strength-of-developers/tree/master/Handbook/2.%20Policies%20and%20Standards).
 - [ ] Project Life Cycle
   - [ ] Please read through the documents [found here](https://github.com/byuitechops/for-the-strength-of-developers/tree/master/Handbook/3.%20Project%20Life%20Cycle) that describes the current Project Life Cycle.
+  
+## Things to know
+**Slack** - The first thing you must do after clocking in is to check Slack.<br/>
+**3 P's** - Always do the 3 P's after checking Slack.<br/>
+**Team Meetings** - We usually have a *mandatory* team meeting every Thursday at 2:00 pm. Watch on Slack for announcements concerning the meetings.<br/>
+**Rules** - You need to make sure that you do the following (You can discuss this with Josh or your leads if you have any issues here):
+- Work 15+ hours per week
+- Work in at least 2 hours blocks when coming into work. 
+- If you will be late, please inform your leads through Slack before your shift starts.
