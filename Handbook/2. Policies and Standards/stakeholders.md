@@ -20,7 +20,7 @@ As employees of the school, it is important that you act professionally. Always 
 
 When meeting with a stakeholder in person, you must dress business casual. This means:
 
-**Men** - collared shirt and no denim    
+**Men** - collared shirt and tie and no denim    
 **Women** - blouse, sweater, cardigan, dress, etc. and no denim. 
 
 Also, please bring your name tag with you when meeting with stakeholders outside of Lamprecht Hall.
