@@ -15,7 +15,7 @@ Any communication should be reported to leads and Josh in the 3 P's report.
 ## Emails
 You must CC Josh on every email sent to stakeholders. This is so he can stay in the loop and help where needed. If you do not hear back from them within two days, you may follow-up with another email. Calling them or going to their office may prove to be more effective, and you may call them at any time within business hours.
 
-## Professionalism and Dress
+## Professionalism and Dress for Meeting with Stakeholders
 As employees of the school, it is important that you act professionally. Always greet them cordially and thank them for their time and help. 
 
 When meeting with a stakeholder in person, you must dress business casual. This means:
