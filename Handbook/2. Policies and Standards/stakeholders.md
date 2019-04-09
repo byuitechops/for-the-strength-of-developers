@@ -6,7 +6,7 @@ If the designated mode of contact proves ineffective, follow these steps:
 
 1. Email them
 1. Call them using the phone in the war room. Find their information using the [BYUI Employee Directory](https://web.byui.edu/directory/employees/)
-1. Visit them in their office during their office hours. Feel free to bring someone with you as you deem appropriate. You can also find their office hours in the [BYUI Employee Directory](https://web.byui.edu/directory/employees/)
+1. Visit them in their office during their office hours. Feel free to bring someone from the team or Josh with you as you deem appropriate. You can also find their office hours in the [BYUI Employee Directory](https://web.byui.edu/directory/employees/)
 
 You may desire to skip straight to calling them or visiting them, depending on the urgency of the issue. 
 
