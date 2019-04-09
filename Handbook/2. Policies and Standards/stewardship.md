@@ -62,3 +62,5 @@ Computer crime and copyright infringement are included in this section. Never co
 
 The environment of our workplace is determined by our behavior. All behavior in the workplace should be professional and keeping to the standards of the church.
 
+
+<!-- TODO: add citations for the quotes in this section!!!!!!!!!! We got much of this text from course support and each quote only had a number next to it indicating that the number was in their citations page, we do not have their citations page, so we'll need to find where this text is located, or ask them again for the document. --> 
