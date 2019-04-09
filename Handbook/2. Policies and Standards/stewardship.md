@@ -48,13 +48,13 @@ For the Strength of Youth has this to say about Honesty and Integrity:
 As a Church school, we expect all student employees to adhere to the honor code at all times.
 
 ### Academic Honesty
-> "We agree to be completely honest in all our dealings, including class assignments and tests. This means we don't plagiarize material, fabricate or falsify information, or cheat."
+> "We agree to be completely honest in all our dealings, including class assignments and tests. This means we don't plagiarize material, fabricate or falsify information, or cheat." - [Honor Code Academic Honesty](http://www.byui.edu/student-honor-office/ces-honor-code/academic-honesty)
 
 As a student developer on our team, you have access to all I-Learn courses. You are expected to never access classes that you will have to take yourself, or classes you may have to take. You are also to never alter any grade, whether your own or someone else's. This is a violation of federal law, and you will serve jail time if you do so.
 
 ### Student Life
 
-> "The divide between the standards of the gospel and those of the world continues to widen. There is safety in abiding by gospel standards. We agree to abstain from behavior that conflicts with the CES Honor Code, like immorality, pornography, violent or sexually explicit entertainment or gambling. We also avoid situations which might compromise our standards and tempt us unnecessarily." - [Honor Code Academic Honesty](http://www.byui.edu/student-honor-office/ces-honor-code/academic-honesty)
+> "The divide between the standards of the gospel and those of the world continues to widen. There is safety in abiding by gospel standards. We agree to abstain from behavior that conflicts with the CES Honor Code, like immorality, pornography, violent or sexually explicit entertainment or gambling. We also avoid situations which might compromise our standards and tempt us unnecessarily." 
 
 Computer crime and copyright infringement are included in this section. Never copy information from the courses for any use outside of fulfilling your job duties.
 
