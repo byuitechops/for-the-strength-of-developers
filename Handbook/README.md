@@ -9,4 +9,4 @@ The following are systems we have put in place, so that we can work together to 
 1. [Approved Lists](https://github.com/byuitechops/for-the-strength-of-developers/tree/master/Handbook/5.%20Approved%20Lists)
 1. [Templates](https://github.com/byuitechops/for-the-strength-of-developers/tree/master/Handbook/6.%20Templates)
 1. [Employee Exit Process](https://github.com/byuitechops/for-the-strength-of-developers/tree/master/Handbook/7.%20Employee%20Exit%20Process)
-1. [How to be a Lead](./)
+1. [How to be a Lead](./8.%20How%20to%20be%20a%20Lead)
