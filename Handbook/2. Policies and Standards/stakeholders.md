@@ -18,7 +18,7 @@ You must CC Josh on every email sent to stakeholders. This is so he can stay in 
 ## Professionalism and Dress for Meeting with Stakeholders
 As employees of the school, it is important that you act professionally. Always greet them cordially and thank them for their time and help. 
 
-When meeting with a stakeholder in person, you must dress business casual. This means:
+When meeting with a stakeholder in person, you must dress professionally. This means:
 
 **Men** - collared shirt and tie and no denim    
 **Women** - blouse, sweater, cardigan, dress, etc. and no denim. 
