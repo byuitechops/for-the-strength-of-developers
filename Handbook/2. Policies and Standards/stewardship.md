@@ -1,3 +1,7 @@
+# Stewardship
+
+You are a stw
+
 ## Media & Entertainment
 Employees may listen to music while working on projects, but must use headphones to be respectful of those that sit around them. When working, they must have the normal office communications open at all times, in case a colleague either in this office or a different one needs to get ahold of them. Employees should choose music that would be uplifting and won’t drive away the spirit from this consecrated building. Netflix, YouTube, and movies are not permitted while working. In short:
 - No social media (Facebook, Instagram, Snapchat, etc.)
