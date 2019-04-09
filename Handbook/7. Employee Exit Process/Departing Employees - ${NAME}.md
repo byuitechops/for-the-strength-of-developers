@@ -63,7 +63,7 @@ For example:
 
 -----------------------
 
-## Josh/Leads Responsibilites
+## Josh/Leads Responsibilities
 > Only Leads/Josh should only modify this section. Checked represents that the employee has it. Unchecked means that the employee does not have it.
 
 - [ ] Employee can be located in BYU-Idaho Tech Ops Github organization
