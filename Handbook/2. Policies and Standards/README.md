@@ -9,6 +9,7 @@ This section contains all policies and standards for our team.
 - [Process For Continual Improvement](./Process%20for%20Continual%20Improvement.md)
 - [Versioning Standards](./Versioning%20Standards.md)
 - [Working with Stakeholders](./stakeholders.md)
+- [Repository Standards](./repositoryStandards.md)
 - [Being a good steward]()
 
 <!-- To be added - [Linting Standards]() -->
