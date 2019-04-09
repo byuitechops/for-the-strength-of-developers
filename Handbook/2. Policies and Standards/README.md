@@ -11,6 +11,6 @@ This section contains all policies and standards for our team.
 - [Versioning Standards](./Versioning%20Standards.md)
 - [Working with Stakeholders](./stakeholders.md)
 - [Repository Standards](./repositoryStandards.md)
-- [Being a good steward]()
+- [Being a Good Steward]()
 
 <!-- To be added - [Linting Standards]() -->
