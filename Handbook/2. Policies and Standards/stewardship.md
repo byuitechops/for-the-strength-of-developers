@@ -1,6 +1,34 @@
 # Stewardship
 
-You are a stw
+Welcome to the team.
+## Who We Are
+Regardless of your past, you are a professional developer now. Additionally, more important than being a professional in the business world at this office we act as the Savior would act. We can ask ourselves, what would the Savior do if He were a developer working in this office?
+
+Many teams in the world take pride in what they do, and we are no exception. The work we do to maintain and automate BYU-I online and Pathway online affects people all around the world. What we do is not just coding, we are contributing to a mechanism that enables thousands of people in all kinds of circumstances to progress. Their education will cause a ripple effect that will be seen for generations to come. 
+
+> "Those graduates of BYU-Idaho will become and this is a prophecy that I am prepared to make and make solemnly those graduates of BYU-Idaho will become legendary for their capacity to build the people around them and to add value wherever they serve" - Henry B Eyring [A Steady, Upward Course](http://www2.byui.edu/Presentations/Transcripts/Devotionals/2001_09_18_Eyring.htm).
+
+We are not just building tools and applications. We are building 
+
+
+
+> And then the Lord told Joseph that great knowledge was about to be revealed to the earth through the power of the Holy Ghost.  The scripture states: “God shall give unto you knowledge by his Holy Spirit . . . that has not been revealed since the world was until now” (D&C 121:26).  The Lord went on to say that it would be “A time to come in the which nothing shall be withheld, . . . All thrones and dominions, principalities and powers, shall be revealed . . . And also, if there be bounds set to the heavens or to the seas, or to the dry land, or to the sun, moon, or stars—All the times of their revolutions, all the appointed days, months, and years, . . . and all their glories, laws, and set times, shall be revealed in the days of the dispensation of the fulness of times” (D&C 121:28-31).
+>
+> The Lord makes clear that in the last days, the dispensation of the fulness of times, all things will be revealed.  (See D&C 101:23-34.)  All knowledge includes the laws that govern the earth as well as those which are spiritual in nature.  The Apostle Paul prophesied 1800 years earlier “That in the dispensation of the fulness of times” the Lord will “gather together in one all things in Christ, both which are in heaven, and which are on earth” (Ephesians 1:10).
+
+Moreover, the knowledge would not only pertain to the spiritual realm but also include knowledge pertaining to the earth (see D&C 121:25, 29-31).  From the time of Christ until 1820, Angus Maddison’s data supports the notion that the heavens were almost sealed during the dark ages.  Finally, a small stream of light began to emerge between 1500 and 1800.  And then Maddison says something happened.  The switch was turned on and a flood of knowledge pierced men’s minds beginning about 1820.
+
+Brothers and sisters, you are living the miracle, the promise made by the Lord to His prophet 170 years ago.  It is interesting that the world is just beginning to understand what has happened, but still does not perceive the Source.  The technological inventions and discoveries of the last 170 years are a clear witness that our Father in Heaven and His Son deliver on Their promises.  They control the universe.  They know the pace and the extent of the discoveries needed for the gospel to reach every nation, kindred, tongue and people.
+
+ 
+
+I testify to you that the gospel of Jesus Christ was restored through the Prophet Joseph Smith and that President Gordon B. Hinckley has all of the priesthood keys necessary to save and exalt you and me.  I testify that the Savior performed the Atonement so that our shortcomings will not limit us if we exercise faith in Him, repent, and partake of the ordinances and covenants associated with His work.  Finally, the Lord is the Source of all truth including the marvelous scientific discoveries and inventions that have improved mankind’s lot during the last 200 years.  May our testimonies of Him deepen and may we enjoy the power of His Holy Spirit in our lives is my prayer
+
+
+Nothing Shall Be Withheld
+
+Elder Merrill J. Bateman
+http://www2.byui.edu/Presentations/Transcripts/Devotionals/2007_05_22_Bateman.htm
 
 ## Media & Entertainment
 Employees may listen to music while working on projects, but must use headphones to be respectful of those that sit around them. When working, they must have the normal office communications open at all times, in case a colleague either in this office or a different one needs to get ahold of them. Employees should choose music that would be uplifting and won’t drive away the spirit from this consecrated building. Netflix, YouTube, and movies are not permitted while working. In short:
