@@ -5,7 +5,7 @@ This section contains all policies and standards for our team.
 
 ## Sections
 
-- [General Policies]()
+- [General Policies](./Policies.md)
 - [Linting Standards]()
 - [Versioning Standards]()
 - [Working with Stakeholders](./stakeholders.md)
