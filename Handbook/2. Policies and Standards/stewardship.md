@@ -54,7 +54,7 @@ As a student developer on our team, you have access to all I-Learn courses. You 
 
 ### Student Life
 
-> "The divide between the standards of the gospel and those of the world continues to widen. There is safety in abiding by gospel standards. We agree to abstain from behavior that conflicts with the CES Honor Code, like immorality, pornography, violent or sexually explicit entertainment or gambling. We also avoid situations which might compromise our standards and tempt us unnecessarily."
+> "The divide between the standards of the gospel and those of the world continues to widen. There is safety in abiding by gospel standards. We agree to abstain from behavior that conflicts with the CES Honor Code, like immorality, pornography, violent or sexually explicit entertainment or gambling. We also avoid situations which might compromise our standards and tempt us unnecessarily." - [Honor Code Academic Honesty](http://www.byui.edu/student-honor-office/ces-honor-code/academic-honesty)
 
 Computer crime and copyright infringement are included in this section. Never copy information from the courses for any use outside of fulfilling your job duties.
 
