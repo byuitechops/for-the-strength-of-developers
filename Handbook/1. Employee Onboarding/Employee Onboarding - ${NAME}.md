@@ -14,7 +14,7 @@ For example:
 
 > Talk to anyone if you have any questions regarding these items.
 
-- [ ] Please ensure that the school has your I-9 information.
+- [ ] Please ensure that BYU-Idaho HR has approved you to work.
 - [ ] Are you able to access Workday and clock in/out? 
   > If not, please talk to your lead or Josh.
 - [ ] Github
