@@ -54,13 +54,10 @@ As a student developer on our team, you have access to all I-Learn courses. You 
 
 ### Student Life
 
-> "The divide between the standards of the gospel and those of the world continues to widen. There is safety in abiding by gospel standards. We agree to abstain from behavior that conflicts with the CES Honor Code, like immorality, pornography, violent or sexually explicit entertainment or gambling. We also avoid situations which might compromise our standards and tempt us unnecessarily." 
+> "The divide between the standards of the gospel and those of the world continues to widen. There is safety in abiding by gospel standards. We agree to abstain from behavior that conflicts with the CES Honor Code, like immorality, pornography, violent or sexually explicit entertainment or gambling. We also avoid situations which might compromise our standards and tempt us unnecessarily." - [Honor Code Student Life](http://www.byui.edu/student-honor-office/ces-honor-code/student-life)
 
 Computer crime and copyright infringement are included in this section. Never copy information from the courses for any use outside of fulfilling your job duties.
 
-> "All forms of harassment (verbal, physical, mental or sexual), hazing, intimidation, exploitation, or aggressive behavior that threaten or endanger the physical or emotional health and safety of others is in violation of the Honor Code."
+> "All forms of harassment (verbal, physical, mental or sexual), hazing, intimidation, exploitation, or aggressive behavior that threaten or endanger the physical or emotional health and safety of others is in violation of the Honor Code." - [Honor Code Student Life](http://www.byui.edu/student-honor-office/ces-honor-code/student-life)
 
 The environment of our workplace is determined by our behavior. All behavior in the workplace should be professional and keeping to the standards of the church.
-
-
-<!-- TODO: add citations for the quotes in this section!!!!!!!!!! We got much of this text from course support and each quote only had a number next to it indicating that the number was in their citations page, we do not have their citations page, so we'll need to find where this text is located, or ask them again for the document. --> 
