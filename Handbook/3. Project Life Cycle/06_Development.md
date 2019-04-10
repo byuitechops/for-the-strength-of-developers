@@ -9,6 +9,9 @@
 
 ## Tutorial of Process
 
+# These are all suggestions, we have not discussed to determine what this section should be
+
+
 1. Put system of sprints and/or junior/senior developers etc. here.
 
 1. Additionally add a system of how do you know when a requirement has been met in development?

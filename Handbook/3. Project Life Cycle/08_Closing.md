@@ -11,6 +11,7 @@ Closing the project is very straight forward. It's as easy as 1-2-3. Follow thes
 ### Time Estimate: 1-3 hours
 - *Depending on the project and knowledge of the developer, the time estimate may differ.*
 
+# These are all suggestions, we have not discussed to determine what this section should be
 
 ## Tutorial of Process
 
