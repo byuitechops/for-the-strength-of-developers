@@ -11,6 +11,8 @@ Developers should anticipate that their design will change after conversations w
 
 ## Tutorial of Process
 
+1. Add Component Charts with Explanations
+
 For each major component of your project that needs additional explanation, create an entry in the Component Diagrams section of the Key Components Doc.
 
 Here are some of the different types of charts that you can create:
@@ -35,30 +37,4 @@ For many projects, chances are you will only need one chart. You may find it use
 > good look at what you want to do, and try to come up with the *long-term lazy way*, 
 > not the short-term lazy way. - Larry Wall
 
-
-### OLD TUTORIAL
-
-
-1. Determine if the project is an emergency or a smaller project to see if this stage should be skipped or not
-
-1. Using the project capture document and stakeholder interaction create an SRS
-
-1. Starting from the seed of the Key Components Document create an SDD
-
-1. Set up project using a set of templates (could use Yeoman or existing C# frameworks that have templates).  Need more or less the following:
-
-    - README
-    - Code Templates for unit tests
-    - Code Templates for main function
-    - Code Templates for input/output
-    - Other Code Templates
-    - License File (e.g. MIT)
-    - Package.json
-    - Any other files we will need as part of the project template out and ready boilerplate style.
-
-1. Using generated templates add comments and stubbed code throughout
-
-- Can also include comments and stubbed code for tests.
-
-1. Set up meeting with manager/leads to get your full design approved before official development starts.
 
