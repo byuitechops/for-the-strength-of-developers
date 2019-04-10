@@ -12,18 +12,14 @@ Developers should anticipate that their design will change after conversations w
 ## Tutorial of Process
 
 1. Add Component Charts with Explanations
-
-For each major component of your project that needs additional explanation, create an entry in the Component Diagrams section of the Key Components Doc.
-
-Here are some of the different types of charts that you can create:
-
-- [Structure Chart](https://en.wikipedia.org/wiki/Structure_chart)
-- [Sequence Diagram](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/)
-- [Class Diagram](https://en.wikipedia.org/wiki/Class_diagram)
-- [Data Flow Diagram](https://www.lucidchart.com/pages/data-flow-diagram?a=0)
-- Other Diagram (perhaps a hybrid of some of the above that gets the design across and can be completely understood by another programmer without a verbal explanation)
-
-For many projects, chances are you will only need one chart. You may find it useful on other projects to include 2 or 3 charts to chart the design. Keep in mind that at this stage the chart(s) should only include what is necessary. That being said, make sure not to leave anything out that would be an essential part of the design! (Or to use a project management term, this design should be [lean](https://www.asme.org/engineering-topics/articles/manufacturing-design/5-lean-principles-every-should-know).)
+  For each major component of your project that needs additional explanation, create an entry in the Component Diagrams section of the  Key Components Doc.
+  Here are some of the different types of charts that you can create:
+    - [Structure Chart](https://en.wikipedia.org/wiki/Structure_chart)
+    - [Sequence Diagram](https://www.geeksforgeeks.org/unified-modeling-language-uml-sequence-diagrams/)
+    - [Class Diagram](https://en.wikipedia.org/wiki/Class_diagram)
+    - [Data Flow Diagram](https://www.lucidchart.com/pages/data-flow-diagram?a=0)
+    - Other Diagram (perhaps a hybrid of some of the above that gets the design across and can be completely understood by another programmer without a verbal explanation)
+  For many projects, chances are you will only need one chart. You may find it useful on other projects to include 2 or 3 charts to chart the design. Keep in mind that at this stage the chart(s) should only include what is necessary. That being said, make sure not to leave anything out that would be an essential part of the design! (Or to use a project management term, this design should be [lean](https://www.asme.org/engineering-topics/articles/manufacturing-design/5-lean-principles-every-should-know).)
 
 
 
