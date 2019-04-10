@@ -36,4 +36,3 @@ Developers should anticipate that their design will change after conversations w
 > good look at what you want to do, and try to come up with the *long-term lazy way*, 
 > not the short-term lazy way. - Larry Wall
 
-
