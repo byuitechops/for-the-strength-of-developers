@@ -5,6 +5,7 @@
 |TFS|Add to organization?|Remove from TFS?|
 |Workday|Hire & setup pay|Terminate them|
 |Google Drive| Add to team drives|Remove from team drives|
+|Schedule| Add to schedule sheet|Remove from schedule sheet|
 |Canvas|Add CCT Role|Remove CCT Role|
 |D2L|Add CCT Role|Remove CCT Role|
 |Slack|Add to byuitechops & channels|Remove from byuitechops|
