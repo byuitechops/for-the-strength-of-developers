@@ -23,11 +23,12 @@ For example:
 - [ ] TFS setup
 - [ ] CCT Account
   - [ ] Talk to your lead or Josh to obtain a CCT account (the account that you will use to access Canvas/Brightspace courses). Your student account should *NOT* be used during work. 
-  - [ ] Slack
-- [ ] Update picture(s)
-    - [ ] Go to FTC (Faculty Technology Center) to have professional picture taken. Talk to a lead to find out where to go and what to say.
-    - [ ] Update your GitHub, Slack, and CCT account with your new picture once you receive it from the FTC.
+- [ ] Slack
   - [ ] Talk to any member of the team to add you to the Slack group and get added to each channel.
+- [ ] Update picture(s)
+  - [ ] Go to FTC (Faculty Technology Center) to have professional picture taken. Talk to a lead to find out where to go and what to say.
+  - [ ] Update your GitHub, Slack, and CCT account with your new picture once you receive it from the FTC.
+  
 - [ ] Pluralsight
 
 ## Rules/Policies
