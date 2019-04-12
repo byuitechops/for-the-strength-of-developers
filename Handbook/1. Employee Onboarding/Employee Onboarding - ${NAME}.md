@@ -27,7 +27,7 @@ For example:
   - [ ] Talk to any member of the team to add you to the Slack group and get added to each channel.
 - [ ] Update picture(s)
   - [ ] Go to FTC (Faculty Technology Center) to have professional picture taken. Talk to a lead to find out where to go and what to say.
-  - [ ] Update your GitHub, Slack, and CCT account with your new picture once you receive it from the FTC.
+  - [ ] Update your GitHub, TFS, Slack, and CCT account with your new picture once you receive it from the FTC.
   
 - [ ] Pluralsight
 
