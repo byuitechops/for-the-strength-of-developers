@@ -87,7 +87,7 @@
         * open in browser
     * Look [here](https://code.visualstudio.com/docs/editor/codebasics) for some really good keyboard shortcuts
     * Look [here](https://code.visualstudio.com/docs/languages/javascript) to see some cool features VS Code has for Javascript
-    * General VS Code Help : [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
+    * General VS Code Help : [Documentation and Helper Docs](https://code.visualstudio.com/docs)
 
 ## Continue
 Done setting up and installing everything? Move on to the next section [here](./intro.md).
