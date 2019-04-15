@@ -2,12 +2,21 @@
 
 # Data structure manipulation
 
+## Goals
+
+1. Practice using JavaScript array methods
+1. Practice changing one data structure to another data structure
+1. Practice learning a new library from their documentation
+1. Practice using the Project Capture Document
+1. Practice designing a project
+
+
 ## Instructions
 
-You will be provided a data set that is in csv format. A csv is a text file that stores data in a table format. The are tipicially made from programs like MS Excel and Google Sheets. CSV is kind of like the jpg of spreadsheets. Meaning, it is a generic "middle" format for  spreadsheets. 
+You will be provided a data set that is in CSV format. A CSV is a text file that stores data in a table format. CSV stands for comma separated values. They are typically made from programs like MS Excel and Google Sheets. CSV is kind of like the jpg of spreadsheets. Meaning, it is a generic "middle" format for spreadsheets. 
 
-The data decribes 100 cities. Each row is a fake city that has a Population, State and Country. 
-You will need to change the data structure from a 1 dementional array of cities in to a array of Countries objects. Each country obj will have a `name` key and `states` key. The `states` will be array of  that each have a list of 
+The data describes 100 cities. Each row is a fake city that has a Population, State and Country. 
+You will need to change the data structure from a 1 dimensional array of cities in to a array of Countries objects. Each country obj will have a `name` key and `states` key. The `states` will be array of  that each have a list of 
 
 the CSV data is strucrueed like this looks like this:
 
