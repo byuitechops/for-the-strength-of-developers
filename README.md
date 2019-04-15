@@ -1,10 +1,15 @@
-# for-the-strength-of-developers
+# For The Strength Of Developers
+## BYU-Idaho Tech Ops Dev Policies and Development Standards
 
-# Purpose
-This repo contains all of our current development standards and processes.
+Welcome!
+
+If you are a new employee starting training, go to the [training section]((./Training)).
+
+To reference the handbook, go to the [handbook section](./Handbook).
+
 
 ## Sections
 
-- [Training](./Introduction/training.md)
-- [Repository Standards](./Resources/repositoryStandards.md)
-- [Project Life Cycle](./Resources/ProjectLifeCycle.md)
+- [Training](./Training)
+- [Handbook](./Handbook)
+

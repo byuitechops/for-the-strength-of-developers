@@ -1,0 +1,93 @@
+### [Go Back to Orientation Home](./)
+
+# Computer Setup
+
+## Make Accounts in All following places
+
+*   D2L
+*   Canvas
+*   Equella
+*   Slack (potentially MS Teams and Google Chat, ask your peers about this)
+*   Github (make sure to add a professional photo on your profile)
+*   Send your username for Github to mckinneyj@byui.edu
+
+
+## Set Up Your Computer
+
+### Fix the Window's Command Line
+*   Follow the instructions found [here](https://github.com/byuicampuscd/cmd-settings) to setup some command line settings
+*   add in the  windows ten stuff
+
+### Install Applications
+1. Node.js
+    * In CMD, use this to make sure Node.js is installed on your machine: 
+        ```
+        node --version
+        ```
+    *   Make sure that the version number shown is the same as the LTS version found on the Node.js website [here](https://nodejs.org/en/)
+    * If it isn't, install the LTS version found on the site
+
+2. Add NPM folder to your PATH
+    *   Tutorial is [here](https://docs.google.com/a/byui.edu/document/d/1g1SZvtLB56bxmMxzY-TIhVmaEgHKbnGrdxfiZpJ427c/edit?usp=sharing)
+
+3. Git
+    1. Make sure git is installed on your machine by running: 
+        ```
+        git --version
+        ```
+    2. If it isn't, install it by clicking [here](https://git-scm.com/download/win)
+
+    3. You will need to set up git with your github account on on every computer that you use. 
+        * The required commands (insert your own name and github email): 
+       
+        ```
+        git config --global user.name "John Doe"
+        git config --global user.email johndoe@example.com
+        ```
+        For more info see [Getting Started First Time Git-Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup). 
+
+        This next command changes the default text editor to notepad++. Without this `git commit` without the `-m` opens a vi, a command line text editor that you probably don't want to use.
+            
+        ```
+        git config --global core.editor "\"C:\Program Files\Notepad++\notepad++.exe\" -multiInst -nosession -notabbar"
+        ```
+
+        This next command removes the pager for all git commands on Windows. Without this things like `git diff` and `git log` on windows freezes sometimes.
+        
+        ```
+        git config --global --add core.pager cat
+        ```
+
+4. VS Code
+    * First check if VS Code is already installed on your machine. You can do this by trying one of the following commands:
+        ```
+        code .
+        ```
+        OR
+        ```
+        code-insiders .
+        ```
+        If the program does not boot, VS Code was not successfully installed.
+
+    * To install VS Code, click [here](https://go.microsoft.com/fwlink/?LinkID=534107).
+    * Open up VS Code and add the following extensions: 
+        * ESLint
+            * If you're having trouble setting up ESLint, ask someone about the linter file. 
+        * Beautify
+            * Inside of VS Code, click `File > Preferences > Settings`
+            * In the top right corner of VS code there will be a button that looks like this: `{}`. Click on it.
+            * Add this code to enable beautify on save:
+            ```
+            "editor.formatOnSave": true
+            ```
+        * Path Intellisense
+        * Npm Intellisense
+        * Intellisense for CSS class names
+        * Bracket Pair Colorizer
+        * open in browser
+    * Look [here](https://code.visualstudio.com/docs/editor/codebasics) for some really good keyboard shortcuts
+    * Look [here](https://code.visualstudio.com/docs/languages/javascript) to see some cool features VS Code has for Javascript
+    * General VS Code Help : [Documentation and Helper Docs](https://code.visualstudio.com/docs?dv=win)
+
+## Continue
+Done setting up and installing everything? Move on to the next section [here](./intro.md).

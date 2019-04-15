@@ -1,0 +1,65 @@
+### [Go Back to Introduction Home](./)
+
+# Getting Help
+
+##  Getting Help from coworkers/Josh
+There's a lot to learn, so please ask questions **no matter how often.**
+
+---
+## How to learn from the Internet
+We are asked to do a lot of things that we don't know how to do, and things that presumably no one at the University has been asked to do, therefore, we must be good at learning from the internet.
+
+---
+## Copying Code from the Internet
+
+Please Review our [Policies on Licensing and Copying Code from the Internet](../../Handbook/2.%20Policies%20and%20Standards/Copying%20Code%20and%20Licenses%20Policies.md)
+
+Here are some good to know licenses to review:
+
+###  Stack Overflow, Css Tricks, W3, MDN
+1. Stack Overflow [license](https://creativecommons.org/licenses/by-sa/3.0/)
+2. CSS tricks [license](https://css-tricks.com/license/)
+2. W3schools [license](https://www.w3schools.com/about/about_copyright.asp)
+2. MDN [license](https://developer.mozilla.org/en-US/docsMDNAbout#Copyrights_and_licenses)
+
+---
+## MDN (learning from the internet cont.)
+* No attribution is required
+* Documentation is really clean. They always include a description of the function, ademoof it that you can run on the page, parameters and a return value.
+* The documentation also includes multiple examples of that function and when it was invented. 
+* It also includes [polyfills](https://developer.mozilla.org/en-US/docs/GlossaryPolyfill),which we will learn about later. 
+* Gives all suggestions similar to each array function, which ones are deprecated andwhichfunctions are new. 
+
+---
+##  Browser Compatibility
+1.  Check [CanIuse.com](https://caniuse.com/) to check the compatibility with the features you're trying to use. 
+2. Our audience is really important, since we build things that end up all over the world,but we also build stuff only for people in this building.
+
+---
+##  Reading Documentation
+* Reading to find Solutions
+    1. Clearly define your problem before you start your search
+    3. You can very well find solutions to problems by reading to find solutions,but sometimes it doesn't mean you understand it.
+    2. Make sure you understand why that solution works and what makes it different from your original solution.
+    4. Can be effective - doesn't necessarily help you learn what you're doing or whyitworks, but does get the job done.
+* Reading for learning
+    1. There's more value in you LEARNING the code than correctly passing atrainingexercise. 
+    2. Read the documentation from top to bottom 
+    3. Read the documentation more than once
+    3. Take the time to do this if you're noticing that you use a certain libraryfrequently
+    4. Can be extremely effective through the design process - the true proof ofconcept 
+
+---
+##  Use a good library instead of writing your own
+1.  [Compare npm](https://npmcompare.com)
+2. No matter how good our code is, we're a small team. We're not going to beat theworld ifthe world uses it.
+3. Professional work that you produce should be supported by professional work. 
+4. We've compiled a list of common libraries that we use that's a part of the coretraining (this list is found in the handbook).
+
+---
+##  Stay updated with what's happening in JavaScript.
+[O'reilly Newsletters](http://www.oreilly.com/emails/newsletters/index.html)
+
+---
+## Continue
+Buckle up. The next part of training is [coding.](./coding.md)
