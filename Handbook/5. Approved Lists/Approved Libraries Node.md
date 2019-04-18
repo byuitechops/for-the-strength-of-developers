@@ -13,13 +13,13 @@
 
 ## Non Native Node
 
-- [Async](https://github.com/caolan/async) - Async functions for callbacks
-- [Cheerio](https://github.com/cheeriojs/cheerio) - HTML editing
-- [D3-DSV](https://github.com/d3/d3-dsv) - Reading and Writing CSV Files
-- [Enquirer](https://github.com/enquirer/enquirer) - Asynchronous Questions
-- [Handlebars](https://github.com/wycats/handlebars.js/) - HTML templating
-- [Moment](https://github.com/moment/moment) - Time manipulation
-- [Prompts](https://www.npmjs.com/package/prompts) - A different version than Enquirer
+- [Async](https://www.npmjs.com/package/async) - Async functions for callbacks
+- [Cheerio](https://www.npmjs.com/package/cheerio) - HTML editing
+- [D3-DSV](https://www.npmjs.com/package/d3-dsv) - Reading and Writing CSV Files
+- [Inquirer](https://www.npmjs.com/package/inquirer) - Promise-Based CLI Prompts
+- [Handlebars](https://www.npmjs.com/package/handlebars) - HTML templating
+- [Moment](https://www.npmjs.com/package/moment) - Time manipulation
+- [Prompts](https://www.npmjs.com/package/prompts) - Node-Pattern-Based CLI Prompts
 
 ## Homemade
 
