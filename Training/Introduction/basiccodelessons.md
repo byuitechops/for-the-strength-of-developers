@@ -31,7 +31,7 @@
         * [Arrow Functions](http://es6-features.org/#ExpressionBodies)
         * [Default Parameters](http://es6-features.org/#ObjectAndArrayMatchingDefaultValues)
 4.  Array Methods
-    1.  [Learn Array Methods](https://github.com/byuitechops/Array-functions/blob/master/learn-arrays.markdown)
+    1.  [Learn Array Methods](https://github.com/byuitechops/Array-functions)
         * Do a few of the exercises and then touch base with Josh to make sure you're getting it.
         * When you've completed the Array Methods exercises, come back to this page.
     2.  Data structure manipulation
