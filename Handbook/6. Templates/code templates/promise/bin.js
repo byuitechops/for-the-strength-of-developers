@@ -19,7 +19,7 @@ function handleError (error) {
 async function start () {
     try{
         var input = await getInput();
-        output =  await main(input);
+        var output =  await main(input);
         await makeOutput(output);
     } catch(error){
        handleError(error);
