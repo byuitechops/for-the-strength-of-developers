@@ -1,8 +1,13 @@
 /*************************************************************************
  * Module Description
  *************************************************************************/
-module.exports = {
-    async main (args) {
+
+async function supportingFunction1 () {}
+async function supportingFunction2 () {}
+async function supportingFunction3 () {}
+async function errorHandling (error) {console.error(error)};
+
+async function main (args) {
         // await / no await
         await supportingFunction1();
         await supportingFunction2();
@@ -21,9 +26,8 @@ module.exports = {
             supportingFunction3(),
         ])
     }
+
+module.exports = {
+    main
 };
 
-async function supportingFunction1 () {}
-async function supportingFunction2 () {}
-async function supportingFunction3 () {}
-async function errorHandling (error) {console.error(error)};
