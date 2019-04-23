@@ -6,7 +6,7 @@ async function getInput() {
     return input;
 }
 
-async function getOutput (output) {
+async function makeOutput (output) {
     // How to output data, eg. to csv, to json, to console, etc.
     return output;
 }
@@ -16,11 +16,14 @@ function handleError (error) {
     return;
 }
 
-async function start (seed) {
-   getInput()
-      .then    ( main )
-      .then    ( getOutput )
-      .catch   ( handleError );
+async function start () {
+    try{
+        var input = await getInput();
+        output =  await main(input);
+        await makeOutput(output);
+    } catch(error){
+       handleError(error);
+    }
 }
 
 start()
