@@ -11,8 +11,6 @@ function makeOutput(output) {
   return;
 }
 
-(function () {
-  const input = getInput();
-  const output = main(input);
-  makeOutput(output);
-})()
+const input = getInput();
+const output = main(input);
+makeOutput(output);
