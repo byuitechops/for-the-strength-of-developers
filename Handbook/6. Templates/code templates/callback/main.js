@@ -1,6 +1,25 @@
 /*************************************************************************
  * Module Description
  *************************************************************************/
+
+/*************************************************************************
+ * Function Description
+ *************************************************************************/
+function supportingFunction1() {}
+
+/*************************************************************************
+ * Function Description
+ *************************************************************************/
+function supportingFunction2() {}
+
+/*************************************************************************
+ * Function Description
+ *************************************************************************/
+function supportingFunction3() {}
+
+/*************************************************************************
+ * Main Function Description
+ *************************************************************************/
 function main(data, callback) {
   supportingFunction1();
   supportingFunction2();
@@ -8,11 +27,4 @@ function main(data, callback) {
   return callback(null, data);
 }
 
-function supportingFunction1() {}
-
-function supportingFunction2() {}
-
-function supportingFunction3() {}
-
-
-module.exports = main;
+module.exports = {main};
