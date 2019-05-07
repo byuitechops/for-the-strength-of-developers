@@ -1,13 +1,11 @@
 /************************************************************************* 
  * Libraries / Requires / Constants
  *************************************************************************/
-const {
-    main
-} = require('./main.js');
+const main = require('./main.js').main;
 
 /************************************************************************* 
  * Input Function
- * If it is complicated, consider abstracting it to a seperate file.
+ * If it is complicated, consider move it to a seperate file.
  *************************************************************************/
 function getInput(callback) {
     var input;
@@ -18,7 +16,7 @@ function getInput(callback) {
 
 /************************************************************************* 
  * Output Function
- * If it is complicated, consider abstracting it to a seperate file.
+ * If it is complicated, consider move it to a seperate file.
  *************************************************************************/
 function makeOutput(data, callback) {
     // How to output data, eg. to csv, to json, to console, etc.
@@ -29,7 +27,7 @@ function makeOutput(data, callback) {
 
 /************************************************************************* 
  * Handle Error Function
- * If it is complicated, consider abstracting it to a seperate file.
+ * If it is complicated, consider moving it to a seperate file.
  *************************************************************************/
 function errorHandling(error) {
     console.error(error);
