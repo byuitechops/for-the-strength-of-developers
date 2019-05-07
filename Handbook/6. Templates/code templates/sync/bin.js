@@ -6,7 +6,7 @@ function getInput() {
   return input;
 }
 
-function getOutput(output) {
+function makeOutput(output) {
   // How to output data, eg. to csv, to json, to console, etc.
   return;
 }
@@ -14,5 +14,5 @@ function getOutput(output) {
 (function () {
   const input = getInput();
   const output = main(input);
-  getOutput(output);
+  makeOutput(output);
 })()
