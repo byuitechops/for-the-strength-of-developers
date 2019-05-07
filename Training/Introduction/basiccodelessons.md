@@ -35,10 +35,7 @@
         * Do a few of the exercises and then touch base with Josh to make sure you're getting it.
         * When you've completed the Array Methods exercises, come back to this page.
     2.  Data structure manipulation
-        1.  Convert CSV of cities
-            1.  Headers: name, population, county, state
-            2.  To array of state with name and counties which has name and cities that has name and population
-            3. Use [this document](https://github.com/byuitechops/city-organizer) to begin the data structure manipulation exercise. 
+        Use the [training-city-organizer repo](https://github.com/byuitechops/training-city-organizer) to begin the data structure manipulation exercise. 
 2.  Chrome Dev Tools
     1.  Put the word `Debugger;` on a breaking point where you'd like to test your code. When chrome opens, your code will stop on that break point.
     2.  If you haven't learned `console.log` yet, all it does is print words onto the console you're using. Use `console.log` to print to your console at different points in your code to help you effectively to test it.  
@@ -62,7 +59,7 @@
 ```
 npm install npm@4.6.1 -g
 ```
-1.  [Important videos](https://docs.npmjs.com/getting-started/what-is-npm)
+1.  [Important videos](https://www.youtube.com/watch?v=pa4dc480Apo&list=PLQso55XhxkgBMeiYmFEHzz1axDUBjTLC6)
 2.  Important commands
     *  `Npm install ` : installs npm package
     *  `Npm uninstall`: uninstalls npm package
