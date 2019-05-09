@@ -11,6 +11,14 @@ function makeOutput(output) {
   return;
 }
 
-const input = getInput();
-const output = main(input);
-makeOutput(output);
+function handleError(error){
+  console.error(error);
+}
+
+try{
+  const input = getInput();
+  const mainOutput = main(input);
+  makeOutput(mainOutput);
+} catch(error){
+  handleError(error);
+}
