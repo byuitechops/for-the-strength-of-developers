@@ -11,7 +11,7 @@ Explain the context of the problem.
 Explain key terms/words, words that may be unfamiliar to a new hire.
 
 Good:
-    Brother John Doe has a repetative task that takes 15 clicks to complete, and he is hoping that we can knock that down to two or three clicks. It involves logging into Canvas, navigating to a specific course, and editing modules items when a certain criteria is met. He adds a message to the beginning of every module item, which is the same from module to module. The criteria is that the module item title must start with the letter "A". He wants it to be a Puppeteer tool, so that he and his students can perform this task with their normal Canvas login authentication. However, it would likely be easier to train him and his students on how to create an Auth Token, so that is something to discuss with him further.
+    Brother John Doe has a repetitive task that takes 15 clicks to complete, and he is hoping that we can knock that down to two or three clicks. It involves logging into Canvas, navigating to a specific course, and editing modules items when a certain criteria is met. He adds a message to the beginning of every module item, which is the same from module to module. The criteria is that the module item title must start with the letter "A". He wants it to be a Puppeteer tool, so that he and his students can perform this task with their normal Canvas login authentication. However, it would likely be easier to train him and his students on how to create an Auth Token, so that is something to discuss with him further.
 
 Poor:
     Brother John Doe needs a Puppeteer tool to help his students to work faster.
@@ -21,29 +21,27 @@ Poor:
         ^ Who is "He"? What kinds of edits would be made to module items? Why does he want this tool? How much time would it save him?
 -->
 
------
+---
 
-## Definition of Done
+## Recap (tl;dr)
 <!-- 
 What is/are the project outcome(s)?
 ("Can you give me one sentence describing what you want done?")
-We are trying to clean up the yard by Mow, Edge, and Rake.
 
 Good:
+    A tool to update the content of Canvas module items.
+
+    A tool to find all images that are in need of alt text in Canvas.
 
 Poor: 
+    TODO: add poor examples
 
 -->
+-----
 -----
 
 # Requirements
 
-#### General Requirements
-<!-- This tool shall help Brother John Doe and his students...TODO -->
-
----
-
-## Input Information
 #### Source of Inputs
 
 <!-- Paragraph of how to get inputs. From who? From where: Slack, email, server...? This also includes user selected options at runtime. How will we know what options to select? For example, in conversion tool, you'd follow the values on the Trello Board. It would also include the steps to get access to the information you need, such as getting added to a Trello Board, or access to a server.
@@ -96,7 +94,6 @@ Poor:
 
 ---
 
-## Output Information
 
 #### Destination of Outputs
 
@@ -106,20 +103,24 @@ Poor:
 
 <!-- List here a type definition for each output? For example, if the changes are directly to the LMS, list all changes that occur. If it is a CSV define the column names. If it is a JSON, give an example of the JSON structure. -->
 
+---
+
+#### General Requirements
+<!-- This tool shall help Brother John Doe and his students...TODO -->
+<!-- TODO: -->
 
 ---
 
-### User Interface
-
-#### Type:
+#### User Interface Type
 
 <!-- CLI with Flags, CLI With Prompt, Web Page, Server, Library, etc -->
 
 <!-- What are the flags, what are Major Questions, Images of UX/UI Design. -->
 
 -----
+-----
 
-## Expectations
+# Communication Plan
 
 ### Timeline
 
@@ -131,16 +132,20 @@ Poor:
 This will probably be overkill for small projects -->
 
 ### Best Mode of Contact
+<!-- Email, Phone Number, Slack, etc. -->
 
 ### Next Meeting
-
+<!-- e.g. May 4th, 2019 -->
 
 ### Action Items
 <!-- Recap Meeting -->
+
 #### TechOps
+
 #### Stakeholder
+
 
 -----
 
-#### *Approved By:* 
+#### *Approved By:*
 #### *Approval Date:*
