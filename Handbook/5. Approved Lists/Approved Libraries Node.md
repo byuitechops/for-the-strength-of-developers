@@ -9,7 +9,7 @@
 - [**path**](https://nodejs.org/api/path.html) Provides functionalities working with file directories and their paths.
 - [**query string**](https://nodejs.org/api/querystring.html) Provides functionalities when working with URLs and parsing query strings.
 - [**url**](https://nodejs.org/api/url.html) Provides functionalities when working with parsing URLs.
-- [Util](https://github.com/defunctzombie/node-util) - Can promisify functions in Callbackland to work with async/await or other way around
+- [Browserify/Node-Util](https://github.com/browserify/node-util) - Can promisify functions in Callbackland to work with async/await or other way around
 
 ## Non Native Node
 
