@@ -121,7 +121,7 @@ Poor:
 -----
 -----
 
-# Communication Plan
+# Set Expectations
 
 ### Timeline
 
