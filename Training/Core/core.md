@@ -59,7 +59,7 @@ Insert policy here
         1.  Non-standard disclaimer
         2.  Don’t use a library
         1.  [Documentation/Introduction](https://github.com/stevekane/promise-it-wont-hurt)
-        3.  On Part 12 if no valid url is given to you, use "localhost:1337"
+        3.  On Part 12 if no valid url is given to you, use "http://localhost:1337"
 13.  Async/await
         * Helpful tutorial: [async-await](https://javascript.info/async-await)
 14.  D3-DSV
