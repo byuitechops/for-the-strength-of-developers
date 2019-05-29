@@ -9,7 +9,7 @@ This repo contains the basic training and computer setup for new hires.
 
 ## Sections
 
-- [Orientation](./0\.\ Orientation)
+- [Orientation](./0.%20Orientation)
 - [Introduction](./1\.\ Introduction)
 - [Core Training](./2.\ Core)
 - [Advanced Training](./3.\ Advanced)
