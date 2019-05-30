@@ -14,4 +14,4 @@ This repo contains the basic training and computer setup for new hires.
 - [Core Training](./2.%20Core)
 - [Advanced Training](./3.%20Advanced)
 
-## [Start Here](./Orientation)
+## [Start Here](./0.%20Orientation)
