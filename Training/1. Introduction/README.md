@@ -1,4 +1,4 @@
-# Training
+# Introduction Overview
 
 # Purpose
 
@@ -9,9 +9,9 @@ As always, ASK FOR HELP when you need it.
 
 ## Sections
 
-- Getting Help
-- Command Line and Git
-- Basic Code Lessons
-- Introduction to Async
+- [Getting Help](./1.%20gettingHelp.md)
+- [Command Line and Git](./2.%20codingSetup.md)
+- [Basic Code Lessons](./3.%20codingBasics.md)
+- [Introduction to Async](./4.%20asyncIntro.md)
 
-## [Start Here](./help.md)
+## [Start Here](./1.%20gettingHelp.md)
