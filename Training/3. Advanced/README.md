@@ -10,5 +10,7 @@ As always, ASK FOR HELP when you need it.
 
 ## Sections
 
-- [See the Advanced Training](./advanced.md)
-- [Read about Advanced Options](./advancedLearning.md)
+- [See the Advanced Training](./1.%20advancedTraining.md)
+- [Read about Advanced Options](./2.%20extraTraining.md)
+
+## [Start Here](./1.%20advancedTraining.md)
