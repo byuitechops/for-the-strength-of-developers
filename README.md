@@ -3,7 +3,7 @@
 
 Welcome!
 
-If you are a new employee starting training, go to the [training section]((./Training)).
+If you are a new employee starting training, go to the [training section](./Training).
 
 To reference the handbook, go to the [handbook section](./Handbook).
 
