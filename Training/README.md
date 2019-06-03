@@ -15,6 +15,6 @@ This repo contains the basic training and computer setup for new hires.
 - Advanced Training
 
 ## Helpful Resources
-Check out these helpful [tips and tricks](/Resources/tipstricks.md)
+Check out these helpful [tips and tricks](./Resources/tipstricks.md)
 
 ## [Start Here](./Orientation)
