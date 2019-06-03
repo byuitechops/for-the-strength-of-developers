@@ -10,4 +10,6 @@ As always, ASK FOR HELP when you need it.
 
 ## Sections
 
-- [Core Training](./core.md)
+- [Core Training](./1.%20coreTraining.md)
+
+## [Start Here](./1.%20coreTraining.md)
