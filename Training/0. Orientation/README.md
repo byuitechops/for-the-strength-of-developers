@@ -1,5 +1,5 @@
 ### [Back to Training Overview](../)
-# Orientation Training
+# Orientation Training Overview
 
 ## Purpose
 
