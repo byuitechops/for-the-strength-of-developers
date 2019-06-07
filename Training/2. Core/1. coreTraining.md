@@ -83,4 +83,4 @@ Insert policy here
         * [documentation](https://github.com/GoogleChrome/puppeteer)
 
 ## Continue
-In your free time, feel free to check out the next section - [Advanced Training](../Advanced)
+In your free time, feel free to check out the next section - [Advanced Training](../3.%20Advanced)
