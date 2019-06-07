@@ -1,6 +1,6 @@
 ### [Back to Training Overview](../)
 
-# Training
+# Core Overview
 
 # Purpose
 
