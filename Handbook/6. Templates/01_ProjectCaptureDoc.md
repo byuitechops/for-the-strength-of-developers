@@ -38,7 +38,6 @@ Poor:
 
 -->
 -----
------
 
 # Requirements
 
@@ -117,7 +116,6 @@ Poor:
 
 <!-- What are the flags, what are Major Questions, Images of UX/UI Design. -->
 
------
 -----
 
 # Communication Plan
