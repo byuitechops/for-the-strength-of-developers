@@ -1,30 +1,7 @@
 # General Policies and Standards
 
 ## Schedule
-### Fifteen Hours
-
-* You are expected to work AT LEAST 15 hours each week. These 15 hours need to be on the schedule for Josh and team members to refer to. 
-
-* If you desire to work more than 15 hours in a week, please schedule the hours you guarantee that you will be in the office. You may work additional hours that are not scheduled upon approval, but will be held accountable for everything you put on the team schedule.
-
-* You may modify your next-week's schedule up-to the day before the week starts (Sunday). If you need to modify it once the week has started, let leadership know and they will work with you on an individual basis.
-
-### At Least Three Days
-* You must be scheduled to work at least three days each week. This way progress can be made on projects, preventing you from becoming a roadblock in terms of progress and communication.
-
-* Special circumstances may be worked out with leadership on an individual basis.
-
-### Two hours at a Time
-* You must work for at least two hours each time you come into work. This is to ensure enough time to make progress on projects and keeps you productive.
-
-* If you are coming in for a meeting only, then this rule does not apply. 
-
-* Special circumstances may be worked out with leadership on an individual basis.
-
-### Late or Unable to Come In
-* If you are going to be more than 5 min late or you are unable to come in due to sickness or an emergency, it is your responsibility to be in comminucation with the leads and Josh.
-
-* Failure to do so may result in disciplinary action.
+![Read the Laws of the Schedule](https://github.com/byuitechops/for-the-strength-of-developers/blob/master/Handbook/2.%20Policies%20and%20Standards/Laws%20of%20the%20Schedule.md).
 
 ## Three P's
 When arriving at work, the first thing you should do is send a group message to the leads and Josh with the following **Three P's**:
